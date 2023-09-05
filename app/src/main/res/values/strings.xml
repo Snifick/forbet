@@ -1,0 +1,1755 @@
+<resources>
+    <string name="app_name">forBet</string>
+    <string name="Football_1_1_question">Which country won the 2018 FIFA World Cup?</string>
+    <string name="Football_1_1_1">Brazil</string>
+    <string name="Football_1_1_2">Germany</string>
+    <string name="Football_1_1_3">France</string>
+    <string name="Football_1_1_4">Argentina</string>
+    <string name="Football_1_1_answer">3</string>
+
+    <string name="Football_1_2_question">Who is the all-time top scorer in the Premier League?</string>
+    <string name="Football_1_2_1">Wayne Rooney</string>
+    <string name="Football_1_2_2">Frank Lampard</string>
+    <string name="Football_1_2_3">Thierry Henry</string>
+    <string name="Football_1_2_4">Alan Shearer</string>
+    <string name="Football_1_2_answer">4</string>
+
+    <string name="Football_1_3_question">Which club is nicknamed "The Red Devils"?</string>
+    <string name="Football_1_3_1">Arsenal</string>
+    <string name="Football_1_3_2">Manchester United</string>
+    <string name="Football_1_3_3">Liverpool</string>
+    <string name="Football_1_3_4">Chelsea</string>
+    <string name="Football_1_3_answer">2</string>
+
+    <string name="Football_1_4_question">Which country does Lionel Messi represent internationally?</string>
+    <string name="Football_1_4_1">Spain</string>
+    <string name="Football_1_4_2">Brazil</string>
+    <string name="Football_1_4_3">Argentina</string>
+    <string name="Football_1_4_4">Portugal</string>
+    <string name="Football_1_4_answer">3</string>
+
+    <string name="Football_1_5_question">Which team won the UEFA Champions League in 2019?</string>
+    <string name="Football_1_5_1">Liverpool</string>
+    <string name="Football_1_5_2">Real Madrid</string>
+    <string name="Football_1_5_3">Tottenham Hotspur</string>
+    <string name="Football_1_5_4">Barcelona</string>
+    <string name="Football_1_5_answer">1</string>
+
+    <string name="Football_1_6_question">In which stadium is the annual Copa del Rey final usually played?</string>
+    <string name="Football_1_6_1">Bernabeu</string>
+    <string name="Football_1_6_2">Camp Nou</string>
+    <string name="Football_1_6_3">Wanda Metropolitano</string>
+    <string name="Football_1_6_4">La Rosaleda</string>
+    <string name="Football_1_6_answer">3</string>
+
+    <string name="Football_1_7_question">Which player holds the record for the fastest hat-trick in the Premier League?</string>
+    <string name="Football_1_7_1">Sergio Agüero</string>
+    <string name="Football_1_7_2">Sadio Mane</string>
+    <string name="Football_1_7_3">Harry Kane</string>
+    <string name="Football_1_7_4">Robbie Fowler</string>
+    <string name="Football_1_7_answer">2</string>
+
+    <string name="Football_1_8_question">Who managed the England team during the 2006 FIFA World Cup?</string>
+    <string name="Football_1_8_1">Roy Hodgson</string>
+    <string name="Football_1_8_2">Sven-Göran Eriksson</string>
+    <string name="Football_1_8_3">Steve McClaren</string>
+    <string name="Football_1_8_4">Sam Allardyce</string>
+    <string name="Football_1_8_answer">2</string>
+
+    <string name="Football_1_9_question">Which of these clubs has never won the Premier League title?</string>
+    <string name="Football_1_9_1">Manchester City</string>
+    <string name="Football_1_9_2">Arsenal</string>
+    <string name="Football_1_9_3">Liverpool</string>
+    <string name="Football_1_9_4">Leicester City</string>
+    <string name="Football_1_9_answer">3</string>
+
+    <string name="Football_1_10_question">Who won the FIFA Women\'s World Cup in 2019?</string>
+    <string name="Football_1_10_1">Japan</string>
+    <string name="Football_1_10_2">USA</string>
+    <string name="Football_1_10_3">England</string>
+    <string name="Football_1_10_4">France</string>
+    <string name="Football_1_10_answer">2</string>
+
+    <string name="Football_2_1_question">Which club is known as \'La Vecchia Signora\'?</string>
+    <string name="Football_2_1_1">AC Milan</string>
+    <string name="Football_2_1_2">Inter Milan</string>
+    <string name="Football_2_1_3">AS Roma</string>
+    <string name="Football_2_1_4">Juventus</string>
+    <string name="Football_2_1_answer">4</string>
+
+    <string name="Football_2_2_question">Which player has won the most FIFA Ballon d\'Or awards (as of 2021)?</string>
+    <string name="Football_2_2_1">Cristiano Ronaldo</string>
+    <string name="Football_2_2_2">Lionel Messi</string>
+    <string name="Football_2_2_3">Neymar</string>
+    <string name="Football_2_2_4">Andres Iniesta</string>
+    <string name="Football_2_2_answer">2</string>
+
+    <string name="Football_2_3_question">Which country hosted the 2014 FIFA World Cup?</string>
+    <string name="Football_2_3_1">Brazil</string>
+    <string name="Football_2_3_2">Russia</string>
+    <string name="Football_2_3_3">South Africa</string>
+    <string name="Football_2_3_4">Germany</string>
+    <string name="Football_2_3_answer">1</string>
+
+    <string name="Football_2_4_question">Which English club is known as the "Magpies"?</string>
+    <string name="Football_2_4_1">Newcastle United</string>
+    <string name="Football_2_4_2">Norwich City</string>
+    <string name="Football_2_4_3">Nottingham Forest</string>
+    <string name="Football_2_4_4">Brig&amp;ton &amp; Hove Albion</string>
+    <string name="Football_2_4_answer">1</string>
+
+    <string name="Football_2_5_question">Which club did Pep Guardiola manage before Manchester City?</string>
+    <string name="Football_2_5_1">Barcelona</string>
+    <string name="Football_2_5_2">Real Madrid</string>
+    <string name="Football_2_5_3">Bayern Munich</string>
+    <string name="Football_2_5_4">Borussia Dortmund</string>
+    <string name="Football_2_5_answer">3</string>
+
+    <string name="Football_2_6_question">Which team plays their home matches at Anfield?</string>
+    <string name="Football_2_6_1">Manchester United</string>
+    <string name="Football_2_6_2">Leeds United</string>
+    <string name="Football_2_6_3">Liverpool</string>
+    <string name="Football_2_6_4">Arsenal</string>
+    <string name="Football_2_6_answer">3</string>
+
+    <string name="Football_2_7_question">Which of these players has never played for Real Madrid?</string>
+    <string name="Football_2_7_1">Luka Modric</string>
+    <string name="Football_2_7_2">Ronaldinho</string>
+    <string name="Football_2_7_3">Eden Hazard</string>
+    <string name="Football_2_7_4">Karim Benzema</string>
+    <string name="Football_2_7_answer">2</string>
+
+    <string name="Football_2_8_question">Which country does Erling Haaland represent?</string>
+    <string name="Football_2_8_1">Sweden</string>
+    <string name="Football_2_8_2">Denmark</string>
+    <string name="Football_2_8_3">Finland</string>
+    <string name="Football_2_8_4">Norway</string>
+    <string name="Football_2_8_answer">4</string>
+
+    <string name="Football_2_9_question">Who scored the "Hand of God" goal in the 1986 World Cup?</string>
+    <string name="Football_2_9_1">Diego Maradona</string>
+    <string name="Football_2_9_2">Pelé</string>
+    <string name="Football_2_9_3">Zinedine Zidane</string>
+    <string name="Football_2_9_4">Ronaldinho</string>
+    <string name="Football_2_9_answer">1</string>
+
+    <string name="Football_2_10_question">Which of these teams has won the most Serie A titles?</string>
+    <string name="Football_2_10_1">Inter Milan</string>
+    <string name="Football_2_10_2">AC Milan</string>
+    <string name="Football_2_10_3">Juventus</string>
+    <string name="Football_2_10_4">AS Roma</string>
+    <string name="Football_2_10_answer">3</string>
+
+    <string name="Football_3_1_question">Which of the following clubs is based in London?</string>
+    <string name="Football_3_1_1">Aston Villa</string>
+    <string name="Football_3_1_2">Crystal Palace</string>
+    <string name="Football_3_1_3">Sheffield United</string>
+    <string name="Football_3_1_4">Leeds United</string>
+    <string name="Football_3_1_answer">2</string>
+
+    <string name="Football_3_2_question">Which goalkeeper is known as the "Saint Iker"?</string>
+    <string name="Football_3_2_1">Gianluigi Buffon</string>
+    <string name="Football_3_2_2">David de Gea</string>
+    <string name="Football_3_2_3">Alisson Becker</string>
+    <string name="Football_3_2_4">Iker Casillas</string>
+    <string name="Football_3_2_answer">4</string>
+
+    <string name="Football_3_3_question">Which country won the inaugural FIFA World Cup in 1930?</string>
+    <string name="Football_3_3_1">Brazil</string>
+    <string name="Football_3_3_2">Uruguay</string>
+    <string name="Football_3_3_3">Argentina</string>
+    <string name="Football_3_3_4">Italy</string>
+    <string name="Football_3_3_answer">2</string>
+
+    <string name="Football_3_4_question">Which English club\'s nickname is the "Seagulls"?</string>
+    <string name="Football_3_4_1">Southampton</string>
+    <string name="Football_3_4_2">Brighton &amp; Hove Albion</string>
+    <string name="Football_3_4_3">West Bromwich Albion</string>
+    <string name="Football_3_4_4">Everton</string>
+    <string name="Football_3_4_answer">2</string>
+
+    <string name="Football_3_5_question">Which stadium is the home ground of Paris Saint-Germain?</string>
+    <string name="Football_3_5_1">Camp Nou</string>
+    <string name="Football_3_5_2">Stade de France</string>
+    <string name="Football_3_5_3">Parc des Princes</string>
+    <string name="Football_3_5_4">Allianz Arena</string>
+    <string name="Football_3_5_answer">3</string>
+
+    <string name="Football_3_6_question">Who won the Golden Boot at the 2018 FIFA World Cup?</string>
+    <string name="Football_3_6_1">Kylian Mbappé</string>
+    <string name="Football_3_6_2">Harry Kane</string>
+    <string name="Football_3_6_3">Antoine Griezmann</string>
+    <string name="Football_3_6_4">Romelu Lukaku</string>
+    <string name="Football_3_6_answer">2</string>
+
+    <string name="Football_3_7_question">Which club did Zinedine Zidane coach to three consecutive UEFA Champions League wins?</string>
+    <string name="Football_3_7_1">Barcelona</string>
+    <string name="Football_3_7_2">Juventus</string>
+    <string name="Football_3_7_3">Real Madrid</string>
+    <string name="Football_3_7_4">AC Milan</string>
+    <string name="Football_3_7_answer">3</string>
+
+    <string name="Football_3_8_question">Which of these clubs has not won a UEFA Champions League title?</string>
+    <string name="Football_3_8_1">Valencia</string>
+    <string name="Football_3_8_2">Porto</string>
+    <string name="Football_3_8_3">Manchester United</string>
+    <string name="Football_3_8_4">Inter Milan</string>
+    <string name="Football_3_8_answer">1</string>
+
+    <string name="Football_3_9_question">Which of the following footballers is Swedish?</string>
+    <string name="Football_3_9_1">Robert Lewandowski</string>
+    <string name="Football_3_9_2">Zlatan Ibrahimović</string>
+    <string name="Football_3_9_3">Cristiano Ronaldo</string>
+    <string name="Football_3_9_4">Luka Modrić</string>
+    <string name="Football_3_9_answer">2</string>
+
+    <string name="Football_3_10_question">Which country did Virgil van Dijk represent at the international level?</string>
+    <string name="Football_3_10_1">Belgium</string>
+    <string name="Football_3_10_2">Germany</string>
+    <string name="Football_3_10_3">Netherlands</string>
+    <string name="Football_3_10_4">France</string>
+    <string name="Football_3_10_answer">3</string>
+
+    <string name="Football_4_1_question">Which stadium is known as the "Theatre of Dreams"?</string>
+    <string name="Football_4_1_1">Stamford Bridge</string>
+    <string name="Football_4_1_2">Old Trafford</string>
+    <string name="Football_4_1_3">Anfield</string>
+    <string name="Football_4_1_4">Emirates Stadium</string>
+    <string name="Football_4_1_answer">2</string>
+
+    <string name="Football_4_2_question">Who is the all-time leading scorer for the Portuguese national team?</string>
+    <string name="Football_4_2_1">Deco</string>
+    <string name="Football_4_2_2">Rui Costa</string>
+    <string name="Football_4_2_3">Cristiano Ronaldo</string>
+    <string name="Football_4_2_4">Eusébio</string>
+    <string name="Football_4_2_answer">3</string>
+
+    <string name="Football_4_3_question">What is the primary color of the Italian national team\'s jersey?</string>
+    <string name="Football_4_3_1">White</string>
+    <string name="Football_4_3_2">Red</string>
+    <string name="Football_4_3_3">Blue</string>
+    <string name="Football_4_3_4">Green</string>
+    <string name="Football_4_3_answer">3</string>
+
+    <string name="Football_4_4_question">Which team did Jurgen Klopp manage before Liverpool?</string>
+    <string name="Football_4_4_1">Borussia Mönchengladbach</string>
+    <string name="Football_4_4_2">Bayern Munich</string>
+    <string name="Football_4_4_3">Borussia Dortmund</string>
+    <string name="Football_4_4_4">RB Leipzig</string>
+    <string name="Football_4_4_answer">3</string>
+
+    <string name="Football_4_5_question">Who is known as the "Egyptian King" in football?</string>
+    <string name="Football_4_5_1">Mohamed Salah</string>
+    <string name="Football_4_5_2">Mohamed Elneny</string>
+    <string name="Football_4_5_3">Mahmoud Hassan Trezeguet</string>
+    <string name="Football_4_5_4">Gedo</string>
+    <string name="Football_4_5_answer">1</string>
+
+    <string name="Football_4_6_question">Which of the following countries has never hosted a FIFA World Cup?</string>
+    <string name="Football_4_6_1">France</string>
+    <string name="Football_4_6_2">Spain</string>
+    <string name="Football_4_6_3">Japan</string>
+    <string name="Football_4_6_4">England</string>
+    <string name="Football_4_6_answer">2</string>
+
+    <string name="Football_4_7_question">In which year did Lionel Messi win his first Ballon d\'Or?</string>
+    <string name="Football_4_7_1">2008</string>
+    <string name="Football_4_7_2">2009</string>
+    <string name="Football_4_7_3">2010</string>
+    <string name="Football_4_7_4">2011</string>
+    <string name="Football_4_7_answer">2</string>
+
+    <string name="Football_4_8_question">Which team is known for the "Tiki-taka" style of play?</string>
+    <string name="Football_4_8_1">Real Madrid</string>
+    <string name="Football_4_8_2">Barcelona</string>
+    <string name="Football_4_8_3">Manchester City</string>
+    <string name="Football_4_8_4">Bayern Munich</string>
+    <string name="Football_4_8_answer">2</string>
+
+    <string name="Football_4_9_question">Who holds the record for most appearances in the Premier League?</string>
+    <string name="Football_4_9_1">Frank Lampard</string>
+    <string name="Football_4_9_2">Steven Gerrard</string>
+    <string name="Football_4_9_3">Ryan Giggs</string>
+    <string name="Football_4_9_4">Gareth Barry</string>
+    <string name="Football_4_9_answer">4</string>
+
+    <string name="Football_4_10_question">Which English club is known as the "Potters"?</string>
+    <string name="Football_4_10_1">Stoke City</string>
+    <string name="Football_4_10_2">Burnley</string>
+    <string name="Football_4_10_3">West Ham United</string>
+    <string name="Football_4_10_4">Wolverhampton Wanderers</string>
+    <string name="Football_4_10_answer">1</string>
+
+    <string name="Football_5_1_question">Who won the Golden Boot in the Premier League for the 2019/2020 season?</string>
+    <string name="Football_5_1_1">Jamie Vardy</string>
+    <string name="Football_5_1_2">Sergio Agüero</string>
+    <string name="Football_5_1_3">Mohamed Salah</string>
+    <string name="Football_5_1_4">Pierre-Emerick Aubameyang</string>
+    <string name="Football_5_1_answer">1</string>
+
+    <string name="Football_5_2_question">Which of these players is not a goalkeeper?</string>
+    <string name="Football_5_2_1">Ederson Moraes</string>
+    <string name="Football_5_2_2">Alisson Becker</string>
+    <string name="Football_5_2_3">Kevin De Bruyne</string>
+    <string name="Football_5_2_4">Jan Oblak</string>
+    <string name="Football_5_2_answer">3</string>
+
+    <string name="Football_5_3_question">Which club is the most successful in terms of UEFA Champions League/European Cup wins?</string>
+    <string name="Football_5_3_1">Barcelona</string>
+    <string name="Football_5_3_2">Bayern Munich</string>
+    <string name="Football_5_3_3">Real Madrid</string>
+    <string name="Football_5_3_4">Liverpool</string>
+    <string name="Football_5_3_answer">3</string>
+
+    <string name="Football_5_4_question">Who captained the French team during their 2018 World Cup win?</string>
+    <string name="Football_5_4_1">Kylian Mbappé</string>
+    <string name="Football_5_4_2">Paul Pogba</string>
+    <string name="Football_5_4_3">Hugo Lloris</string>
+    <string name="Football_5_4_4">Antoine Griezmann</string>
+    <string name="Football_5_4_answer">3</string>
+
+    <string name="Football_5_5_question">Which team plays at the Estádio do Dragão?</string>
+    <string name="Football_5_5_1">Benfica</string>
+    <string name="Football_5_5_2">Sporting Lisbon</string>
+    <string name="Football_5_5_3">Porto</string>
+    <string name="Football_5_5_4">Braga</string>
+    <string name="Football_5_5_answer">3</string>
+
+    <string name="Football_5_6_question">In which country is the Allianz Arena located?</string>
+    <string name="Football_5_6_1">Italy</string>
+    <string name="Football_5_6_2">Germany</string>
+    <string name="Football_5_6_3">Austria</string>
+    <string name="Football_5_6_4">Switzerland</string>
+    <string name="Football_5_6_answer">2</string>
+
+    <string name="Football_5_7_question">Who is the top scorer in the history of the UEFA European Championship (including qualifiers)?</string>
+    <string name="Football_5_7_1">Thierry Henry</string>
+    <string name="Football_5_7_2">Cristiano Ronaldo</string>
+    <string name="Football_5_7_3">Michel Platini</string>
+    <string name="Football_5_7_4">Alan Shearer</string>
+    <string name="Football_5_7_answer">2</string>
+
+    <string name="Football_5_8_question">Which club did David Beckham play for right before retiring?</string>
+    <string name="Football_5_8_1">LA Galaxy</string>
+    <string name="Football_5_8_2">AC Milan</string>
+    <string name="Football_5_8_3">Manchester United</string>
+    <string name="Football_5_8_4">Paris Saint-Germain</string>
+    <string name="Football_5_8_answer">4</string>
+
+    <string name="Football_5_9_question">Which of the following is a derby in the city of Rome?</string>
+    <string name="Football_5_9_1">El Clásico</string>
+    <string name="Football_5_9_2">North London Derby</string>
+    <string name="Football_5_9_3">Merseyside Derby</string>
+    <string name="Football_5_9_4">Derby della Capitale</string>
+    <string name="Football_5_9_answer">4</string>
+
+    <string name="Football_5_10_question">Who scored the winning goal in the 2014 FIFA World Cup final?</string>
+    <string name="Football_5_10_1">Thomas Müller</string>
+    <string name="Football_5_10_2">Lionel Messi</string>
+    <string name="Football_5_10_3">James Rodríguez</string>
+    <string name="Football_5_10_4">Mario Götze</string>
+    <string name="Football_5_10_answer">4</string>
+
+    <string name="Basketball_1_1_question">Who is known as "His Airness"?</string>
+    <string name="Basketball_1_1_1">Shaquille O\'Neal</string>
+    <string name="Basketball_1_1_2">Larry Bird</string>
+    <string name="Basketball_1_1_3">Michael Jordan</string>
+    <string name="Basketball_1_1_4">Kobe Bryant</string>
+    <string name="Basketball_1_1_answer">3</string>
+
+    <string name="Basketball_1_2_question">Which NBA team won the championship in 2020?</string>
+    <string name="Basketball_1_2_1">Miami Heat</string>
+    <string name="Basketball_1_2_2">Golden State Warriors</string>
+    <string name="Basketball_1_2_3">Los Angeles Lakers</string>
+    <string name="Basketball_1_2_4">Toronto Raptors</string>
+    <string name="Basketball_1_2_answer">3</string>
+
+    <string name="Basketball_1_3_question">What team drafted Dirk Nowitzki before he was traded to the Dallas Mavericks?</string>
+    <string name="Basketball_1_3_1">Boston Celtics</string>
+    <string name="Basketball_1_3_2">Milwaukee Bucks</string>
+    <string name="Basketball_1_3_3">San Antonio Spurs</string>
+    <string name="Basketball_1_3_4">Atlanta Hawks</string>
+    <string name="Basketball_1_3_answer">2</string>
+
+    <string name="Basketball_1_4_question">Which player is known for his "Sky Hook"?</string>
+    <string name="Basketball_1_4_1">Bill Russell</string>
+    <string name="Basketball_1_4_2">Kareem Abdul-Jabbar</string>
+    <string name="Basketball_1_4_3">Magic Johnson</string>
+    <string name="Basketball_1_4_4">Hakeem Olajuwon</string>
+    <string name="Basketball_1_4_answer">2</string>
+
+    <string name="Basketball_1_5_question">How many NBA Championships did Tim Duncan win during his career?</string>
+    <string name="Basketball_1_5_1">3</string>
+    <string name="Basketball_1_5_2">4</string>
+    <string name="Basketball_1_5_3">5</string>
+    <string name="Basketball_1_5_4">6</string>
+    <string name="Basketball_1_5_answer">3</string>
+
+    <string name="Basketball_1_6_question">Which NBA team plays its home games at Madison Square Garden?</string>
+    <string name="Basketball_1_6_1">Chicago Bulls</string>
+    <string name="Basketball_1_6_2">New York Knicks</string>
+    <string name="Basketball_1_6_3">Philadelphia 76ers</string>
+    <string name="Basketball_1_6_4">Brooklyn Nets</string>
+    <string name="Basketball_1_6_answer">2</string>
+
+    <string name="Basketball_1_7_question">Which NBA player is known as "The Beard"?</string>
+    <string name="Basketball_1_7_1">James Harden</string>
+    <string name="Basketball_1_7_2">Kevin Durant</string>
+    <string name="Basketball_1_7_3">Anthony Davis</string>
+    <string name="Basketball_1_7_4">Kyrie Irving</string>
+    <string name="Basketball_1_7_answer">1</string>
+
+    <string name="Basketball_1_8_question">Who won the NBA MVP Award for the 2018-2019 season?</string>
+    <string name="Basketball_1_8_1">Russell Westbrook</string>
+    <string name="Basketball_1_8_2">LeBron James</string>
+    <string name="Basketball_1_8_3">Giannis Antetokounmpo</string>
+    <string name="Basketball_1_8_4">Stephen Curry</string>
+    <string name="Basketball_1_8_answer">3</string>
+
+    <string name="Basketball_1_9_question">Which team drafted Kobe Bryant in 1996 before he was traded to the LA Lakers?</string>
+    <string name="Basketball_1_9_1">Charlotte Hornets</string>
+    <string name="Basketball_1_9_2">Denver Nuggets</string>
+    <string name="Basketball_1_9_3">Phoenix Suns</string>
+    <string name="Basketball_1_9_4">Sacramento Kings</string>
+    <string name="Basketball_1_9_answer">1</string>
+
+    <string name="Basketball_1_10_question">Who holds the record for the most points in a single NBA game?</string>
+    <string name="Basketball_1_10_1">Wilt Chamberlain</string>
+    <string name="Basketball_1_10_2">Michael Jordan</string>
+    <string name="Basketball_1_10_3">Karl Malone</string>
+    <string name="Basketball_1_10_4">Kobe Bryant</string>
+    <string name="Basketball_1_10_answer">1</string>
+
+    <string name="Basketball_2_1_question">Which NBA team has a leprechaun as part of its logo?</string>
+    <string name="Basketball_2_1_1">New York Knicks</string>
+    <string name="Basketball_2_1_2">Los Angeles Lakers</string>
+    <string name="Basketball_2_1_3">Boston Celtics</string>
+    <string name="Basketball_2_1_4">Chicago Bulls</string>
+    <string name="Basketball_2_1_answer">3</string>
+
+    <string name="Basketball_2_2_question">Which player was NOT a part of the Miami Heat\'s "Big Three" in the early 2010s?</string>
+    <string name="Basketball_2_2_1">Dwyane Wade</string>
+    <string name="Basketball_2_2_2">LeBron James</string>
+    <string name="Basketball_2_2_3">Chris Bosh</string>
+    <string name="Basketball_2_2_4">Derrick Rose</string>
+    <string name="Basketball_2_2_answer">4</string>
+
+    <string name="Basketball_2_3_question">What is the maximum number of personal fouls a player can commit in an NBA game before fouling out?</string>
+    <string name="Basketball_2_3_1">4</string>
+    <string name="Basketball_2_3_2">5</string>
+    <string name="Basketball_2_3_3">6</string>
+    <string name="Basketball_2_3_4">7</string>
+    <string name="Basketball_2_3_answer">3</string>
+
+    <string name="Basketball_2_4_question">Who won the NBA Rookie of the Year Award for the 2018-2019 season?</string>
+    <string name="Basketball_2_4_1">Luka Dončić</string>
+    <string name="Basketball_2_4_2">Trae Young</string>
+    <string name="Basketball_2_4_3">Zion Williamson</string>
+    <string name="Basketball_2_4_4">Ja Morant</string>
+    <string name="Basketball_2_4_answer">1</string>
+
+    <string name="Basketball_2_5_question">Which college did Steph Curry play for before entering the NBA?</string>
+    <string name="Basketball_2_5_1">Duke</string>
+    <string name="Basketball_2_5_2">Kentucky</string>
+    <string name="Basketball_2_5_3">Davidson</string>
+    <string name="Basketball_2_5_4">North Carolina</string>
+    <string name="Basketball_2_5_answer">3</string>
+
+    <string name="Basketball_2_6_question">Which NBA team\'s nickname is the "Dubs"?</string>
+    <string name="Basketball_2_6_1">Golden State Warriors</string>
+    <string name="Basketball_2_6_2">Washington Wizards</string>
+    <string name="Basketball_2_6_3">Dallas Mavericks</string>
+    <string name="Basketball_2_6_4">Denver Nuggets</string>
+    <string name="Basketball_2_6_answer">1</string>
+
+    <string name="Basketball_2_7_question">Who is the NBA\'s all-time leading scorer?</string>
+    <string name="Basketball_2_7_1">Karl Malone</string>
+    <string name="Basketball_2_7_2">Kareem Abdul-Jabbar</string>
+    <string name="Basketball_2_7_3">Michael Jordan</string>
+    <string name="Basketball_2_7_4">LeBron James</string>
+    <string name="Basketball_2_7_answer">2</string>
+
+    <string name="Basketball_2_8_question">Which of the following players is known for his "Euro Step"?</string>
+    <string name="Basketball_2_8_1">Manu Ginóbili</string>
+    <string name="Basketball_2_8_2">Dirk Nowitzki</string>
+    <string name="Basketball_2_8_3">Steve Nash</string>
+    <string name="Basketball_2_8_4">Pau Gasol</string>
+    <string name="Basketball_2_8_answer">1</string>
+
+    <string name="Basketball_2_9_question">Which team drafted Kevin Garnett straight out of high school in 1995?</string>
+    <string name="Basketball_2_9_1">Boston Celtics</string>
+    <string name="Basketball_2_9_2">Los Angeles Clippers</string>
+    <string name="Basketball_2_9_3">Minnesota Timberwolves</string>
+    <string name="Basketball_2_9_4">Atlanta Hawks</string>
+    <string name="Basketball_2_9_answer">3</string>
+
+    <string name="Basketball_2_10_question">What are the official dimensions of an NBA basketball hoop in diameter?</string>
+    <string name="Basketball_2_10_1">16 inches</string>
+    <string name="Basketball_2_10_2">18 inches</string>
+    <string name="Basketball_2_10_3">20 inches</string>
+    <string name="Basketball_2_10_4">22 inches</string>
+    <string name="Basketball_2_10_answer">2</string>
+
+    <string name="Basketball_3_1_question">Which player is known for his "Dream Shake"?</string>
+    <string name="Basketball_3_1_1">Hakeem Olajuwon</string>
+    <string name="Basketball_3_1_2">Shaquille O\'Neal</string>
+    <string name="Basketball_3_1_3">Yao Ming</string>
+    <string name="Basketball_3_1_4">Dwight Howard</string>
+    <string name="Basketball_3_1_answer">1</string>
+
+    <string name="Basketball_3_2_question">Which team did Ray Allen play for when he hit a clutch three-pointer to help secure a win in Game 6 of the 2013 NBA Finals?</string>
+    <string name="Basketball_3_2_1">Boston Celtics</string>
+    <string name="Basketball_3_2_2">Milwaukee Bucks</string>
+    <string name="Basketball_3_2_3">Miami Heat</string>
+    <string name="Basketball_3_2_4">Seattle SuperSonics</string>
+    <string name="Basketball_3_2_answer">3</string>
+
+    <string name="Basketball_3_3_question">Which NBA team is located in Canada?</string>
+    <string name="Basketball_3_3_1">Seattle SuperSonics</string>
+    <string name="Basketball_3_3_2">Portland Trail Blazers</string>
+    <string name="Basketball_3_3_3">Toronto Raptors</string>
+    <string name="Basketball_3_3_4">Vancouver Grizzlies</string>
+    <string name="Basketball_3_3_answer">3</string>
+
+    <string name="Basketball_3_4_question">Who is the head coach of the San Antonio Spurs since 1996?</string>
+    <string name="Basketball_3_4_1">Gregg Popovich</string>
+    <string name="Basketball_3_4_2">Phil Jackson</string>
+    <string name="Basketball_3_4_3">Steve Kerr</string>
+    <string name="Basketball_3_4_4">Mike D\'Antoni</string>
+    <string name="Basketball_3_4_answer">1</string>
+
+    <string name="Basketball_3_5_question">Which NBA player starred alongside Bugs Bunny in the original "Space Jam" movie?</string>
+    <string name="Basketball_3_5_1">Charles Barkley</string>
+    <string name="Basketball_3_5_2">Magic Johnson</string>
+    <string name="Basketball_3_5_3">Michael Jordan</string>
+    <string name="Basketball_3_5_4">Larry Bird</string>
+    <string name="Basketball_3_5_answer">3</string>
+
+    <string name="Basketball_3_6_question">Which NBA team drafted and traded Scottie Pippen in 1987?</string>
+    <string name="Basketball_3_6_1">Seattle SuperSonics</string>
+    <string name="Basketball_3_6_2">Chicago Bulls</string>
+    <string name="Basketball_3_6_3">Portland Trail Blazers</string>
+    <string name="Basketball_3_6_4">Los Angeles Lakers</string>
+    <string name="Basketball_3_6_answer">1</string>
+
+    <string name="Basketball_3_7_question">Which team ended the Golden State Warriors’ record-setting 73-win season in the NBA Finals?</string>
+    <string name="Basketball_3_7_1">Cleveland Cavaliers</string>
+    <string name="Basketball_3_7_2">Toronto Raptors</string>
+    <string name="Basketball_3_7_3">Miami Heat</string>
+    <string name="Basketball_3_7_4">Houston Rockets</string>
+    <string name="Basketball_3_7_answer">1</string>
+
+    <string name="Basketball_3_8_question">What position did Allen Iverson primarily play?</string>
+    <string name="Basketball_3_8_1">Shooting Guard</string>
+    <string name="Basketball_3_8_2">Point Guard</string>
+    <string name="Basketball_3_8_3">Small Forward</string>
+    <string name="Basketball_3_8_4">Center</string>
+    <string name="Basketball_3_8_answer">2</string>
+
+    <string name="Basketball_3_9_question">Who is the youngest player to score 10,000 points in the NBA?</string>
+    <string name="Basketball_3_9_1">Kobe Bryant</string>
+    <string name="Basketball_3_9_2">Michael Jordan</string>
+    <string name="Basketball_3_9_3">Kevin Durant</string>
+    <string name="Basketball_3_9_4">LeBron James</string>
+    <string name="Basketball_3_9_answer">4</string>
+
+    <string name="Basketball_3_10_question">Which player was nicknamed "The Truth"?</string>
+    <string name="Basketball_3_10_1">Paul Pierce</string>
+    <string name="Basketball_3_10_2">Kevin Garnett</string>
+    <string name="Basketball_3_10_3">Ray Allen</string>
+    <string name="Basketball_3_10_4">Vince Carter</string>
+    <string name="Basketball_3_10_answer">1</string>
+
+    <string name="Basketball_4_1_question">Who won the NBA MVP Award for the 2016–2017 season?</string>
+    <string name="Basketball_4_1_1">Stephen Curry</string>
+    <string name="Basketball_4_1_2">Russell Westbrook</string>
+    <string name="Basketball_4_1_3">James Harden</string>
+    <string name="Basketball_4_1_4">Kawhi Leonard</string>
+    <string name="Basketball_4_1_answer">2</string>
+
+    <string name="Basketball_4_2_question">Which NBA player was known as "The Round Mound of Rebound"?</string>
+    <string name="Basketball_4_2_1">Shaquille O\'Neal</string>
+    <string name="Basketball_4_2_2">Charles Barkley</string>
+    <string name="Basketball_4_2_3">Dennis Rodman</string>
+    <string name="Basketball_4_2_4">Karl Malone</string>
+    <string name="Basketball_4_2_answer">2</string>
+
+    <string name="Basketball_4_3_question">What team did Reggie Miller spend his entire NBA career with?</string>
+    <string name="Basketball_4_3_1">Indiana Pacers</string>
+    <string name="Basketball_4_3_2">New York Knicks</string>
+    <string name="Basketball_4_3_3">Los Angeles Clippers</string>
+    <string name="Basketball_4_3_4">Miami Heat</string>
+    <string name="Basketball_4_3_answer">1</string>
+
+    <string name="Basketball_4_4_question">Which team was known as "The Bad Boys" in the late 1980s?</string>
+    <string name="Basketball_4_4_1">Chicago Bulls</string>
+    <string name="Basketball_4_4_2">Detroit Pistons</string>
+    <string name="Basketball_4_4_3">Los Angeles Lakers</string>
+    <string name="Basketball_4_4_4">Boston Celtics</string>
+    <string name="Basketball_4_4_answer">2</string>
+
+    <string name="Basketball_4_5_question">Which player holds the record for most three-pointers made in a single NBA season?</string>
+    <string name="Basketball_4_5_1">Klay Thompson</string>
+    <string name="Basketball_4_5_2">Stephen Curry</string>
+    <string name="Basketball_4_5_3">Ray Allen</string>
+    <string name="Basketball_4_5_4">Reggie Miller</string>
+    <string name="Basketball_4_5_answer">2</string>
+
+    <string name="Basketball_4_6_question">Which college did Anthony Davis attend before entering the NBA?</string>
+    <string name="Basketball_4_6_1">UCLA</string>
+    <string name="Basketball_4_6_2">Duke</string>
+    <string name="Basketball_4_6_3">Kentucky</string>
+    <string name="Basketball_4_6_4">North Carolina</string>
+    <string name="Basketball_4_6_answer">3</string>
+
+    <string name="Basketball_4_7_question">Which of the following teams has never won an NBA championship?</string>
+    <string name="Basketball_4_7_1">Houston Rockets</string>
+    <string name="Basketball_4_7_2">Phoenix Suns</string>
+    <string name="Basketball_4_7_3">Dallas Mavericks</string>
+    <string name="Basketball_4_7_4">Detroit Pistons</string>
+    <string name="Basketball_4_7_answer">2</string>
+
+    <string name="Basketball_4_8_question">Which NBA player was known as "Chocolate Thunder"?</string>
+    <string name="Basketball_4_8_1">Darryl Dawkins</string>
+    <string name="Basketball_4_8_2">Magic Johnson</string>
+    <string name="Basketball_4_8_3">Yao Ming</string>
+    <string name="Basketball_4_8_4">Giannis Antetokounmpo</string>
+    <string name="Basketball_4_8_answer">1</string>
+
+    <string name="Basketball_4_9_question">Which player is known for his "Klaw" hand?</string>
+    <string name="Basketball_4_9_1">Kawhi Leonard</string>
+    <string name="Basketball_4_9_2">Giannis Antetokounmpo</string>
+    <string name="Basketball_4_9_3">Kevin Durant</string>
+    <string name="Basketball_4_9_4">Paul George</string>
+    <string name="Basketball_4_9_answer">1</string>
+
+    <string name="Basketball_4_10_question">Which player was the first to be drafted straight out of high school?</string>
+    <string name="Basketball_4_10_1">Kobe Bryant</string>
+    <string name="Basketball_4_10_2">Kevin Garnett</string>
+    <string name="Basketball_4_10_3">Moses Malone</string>
+    <string name="Basketball_4_10_4">LeBron James</string>
+    <string name="Basketball_4_10_answer">3</string>
+
+    <string name="Basketball_5_1_question">Who holds the NBA record for highest career free throw percentage?</string>
+    <string name="Basketball_5_1_1">Dirk Nowitzki</string>
+    <string name="Basketball_5_1_2">Kevin Durant</string>
+    <string name="Basketball_5_1_3">Steve Nash</string>
+    <string name="Basketball_5_1_4">Reggie Miller</string>
+    <string name="Basketball_5_1_answer">3</string>
+
+    <string name="Basketball_5_2_question">Which player has the nickname "Greek Freak"?</string>
+    <string name="Basketball_5_2_1">Luka Dončić</string>
+    <string name="Basketball_5_2_2">Giannis Antetokounmpo</string>
+    <string name="Basketball_5_2_3">Kristaps Porziņģis</string>
+    <string name="Basketball_5_2_4">Nikola Jokić</string>
+    <string name="Basketball_5_2_answer">2</string>
+
+    <string name="Basketball_5_3_question">Which team does not belong to the NBA’s “Original Eight” franchises?</string>
+    <string name="Basketball_5_3_1">Boston Celtics</string>
+    <string name="Basketball_5_3_2">Golden State Warriors (originally Philadelphia Warriors)</string>
+    <string name="Basketball_5_3_3">Detroit Pistons (originally Fort Wayne Pistons)</string>
+    <string name="Basketball_5_3_4">Orlando Magic</string>
+    <string name="Basketball_5_3_answer">4</string>
+
+    <string name="Basketball_5_4_question">Which player has never played for the Los Angeles Lakers?</string>
+    <string name="Basketball_5_4_1">Karl Malone</string>
+    <string name="Basketball_5_4_2">Gary Payton</string>
+    <string name="Basketball_5_4_3">Vince Carter</string>
+    <string name="Basketball_5_4_4">Dwight Howard</string>
+    <string name="Basketball_5_4_answer">3</string>
+
+    <string name="Basketball_5_5_question">Who is the all-time leading rebounder in NBA history?</string>
+    <string name="Basketball_5_5_1">Dennis Rodman</string>
+    <string name="Basketball_5_5_2">Bill Russell</string>
+    <string name="Basketball_5_5_3">Wilt Chamberlain</string>
+    <string name="Basketball_5_5_4">Shaquille O\'Neal</string>
+    <string name="Basketball_5_5_answer">3</string>
+
+    <string name="Basketball_5_6_question">Which team did Michael Jordan play for after his second retirement?</string>
+    <string name="Basketball_5_6_1">Chicago Bulls</string>
+    <string name="Basketball_5_6_2">Charlotte Hornets</string>
+    <string name="Basketball_5_6_3">Washington Wizards</string>
+    <string name="Basketball_5_6_4">Philadelphia 76ers</string>
+    <string name="Basketball_5_6_answer">3</string>
+
+    <string name="Basketball_5_7_question">Which team won the NBA championship in 2004, upsetting the heavily favored Los Angeles Lakers?</string>
+    <string name="Basketball_5_7_1">San Antonio Spurs</string>
+    <string name="Basketball_5_7_2">Boston Celtics</string>
+    <string name="Basketball_5_7_3">Detroit Pistons</string>
+    <string name="Basketball_5_7_4">Miami Heat</string>
+    <string name="Basketball_5_7_answer">3</string>
+
+    <string name="Basketball_5_8_question">Which NBA player was nicknamed "Agent Zero"?</string>
+    <string name="Basketball_5_8_1">Tracy McGrady</string>
+    <string name="Basketball_5_8_2">Gilbert Arenas</string>
+    <string name="Basketball_5_8_3">Ray Allen</string>
+    <string name="Basketball_5_8_4">Derrick Rose</string>
+    <string name="Basketball_5_8_answer">2</string>
+
+    <string name="Basketball_5_9_question">What is the name of the NBA\'s annual slam dunk contest trophy?</string>
+    <string name="Basketball_5_9_1">Bill Russell Trophy</string>
+    <string name="Basketball_5_9_2">Michael Jordan Trophy</string>
+    <string name="Basketball_5_9_3">Larry O\'Brien Trophy</string>
+    <string name="Basketball_5_9_4">Maurice Podoloff Trophy</string>
+    <string name="Basketball_5_9_answer">3</string>
+
+    <string name="Basketball_5_10_question">Who scored 100 points in a single NBA game in 1962?</string>
+    <string name="Basketball_5_10_1">Michael Jordan</string>
+    <string name="Basketball_5_10_2">Kobe Bryant</string>
+    <string name="Basketball_5_10_3">Kareem Abdul-Jabbar</string>
+    <string name="Basketball_5_10_4">Wilt Chamberlain</string>
+    <string name="Basketball_5_10_answer">4</string>
+
+    <string name="Tennis_1_1_question">Who holds the record for most Wimbledon men\'s singles titles?</string>
+    <string name="Tennis_1_1_1">Pete Sampras</string>
+    <string name="Tennis_1_1_2">Rafael Nadal</string>
+    <string name="Tennis_1_1_3">Roger Federer</string>
+    <string name="Tennis_1_1_4">Novak Djokovic</string>
+    <string name="Tennis_1_1_answer">3</string>
+
+    <string name="Tennis_1_2_question">Which woman has won the most Grand Slam titles in the Open Era?</string>
+    <string name="Tennis_1_2_1">Steffi Graf</string>
+    <string name="Tennis_1_2_2">Serena Williams</string>
+    <string name="Tennis_1_2_3">Martina Navratilova</string>
+    <string name="Tennis_1_2_4">Margaret Court</string>
+    <string name="Tennis_1_2_answer">2</string>
+
+    <string name="Tennis_1_3_question">Where is the Australian Open held?</string>
+    <string name="Tennis_1_3_1">Sydney</string>
+    <string name="Tennis_1_3_2">Brisbane</string>
+    <string name="Tennis_1_3_3">Perth</string>
+    <string name="Tennis_1_3_4">Melbourne</string>
+    <string name="Tennis_1_3_answer">4</string>
+
+    <string name="Tennis_1_4_question">Which surface is the French Open played on?</string>
+    <string name="Tennis_1_4_1">Grass</string>
+    <string name="Tennis_1_4_2">Hard Court</string>
+    <string name="Tennis_1_4_3">Clay</string>
+    <string name="Tennis_1_4_4">Carpet</string>
+    <string name="Tennis_1_4_answer">3</string>
+
+    <string name="Tennis_1_5_question">Which of these players is known for his unique "underarm serve"?</string>
+    <string name="Tennis_1_5_1">Dominic Thiem</string>
+    <string name="Tennis_1_5_2">Nick Kyrgios</string>
+    <string name="Tennis_1_5_3">Alexander Zverev</string>
+    <string name="Tennis_1_5_4">Stefanos Tsitsipas</string>
+    <string name="Tennis_1_5_answer">2</string>
+
+    <string name="Tennis_1_6_question">Who won the Golden Slam in 1988?</string>
+    <string name="Tennis_1_6_1">Monica Seles</string>
+    <string name="Tennis_1_6_2">Serena Williams</string>
+    <string name="Tennis_1_6_3">Steffi Graf</string>
+    <string name="Tennis_1_6_4">Martina Hingis</string>
+    <string name="Tennis_1_6_answer">3</string>
+
+    <string name="Tennis_1_7_question">Which country is Rafael Nadal from?</string>
+    <string name="Tennis_1_7_1">Argentina</string>
+    <string name="Tennis_1_7_2">Italy</string>
+    <string name="Tennis_1_7_3">Spain</string>
+    <string name="Tennis_1_7_4">Portugal</string>
+    <string name="Tennis_1_7_answer">3</string>
+
+    <string name="Tennis_1_8_question">Who is the youngest winner of a men\'s singles Grand Slam title in the Open Era?</string>
+    <string name="Tennis_1_8_1">Michael Chan</string>
+    <string name="Tennis_1_8_2">Novak Djokovic</string>
+    <string name="Tennis_1_8_3">Lleyton Hewitt</string>
+    <string name="Tennis_1_8_4">Boris Becker</string>
+    <string name="Tennis_1_8_answer">4</string>
+
+    <string name="Tennis_1_9_question">Which tennis tournament is known as "the fifth Grand Slam"?</string>
+    <string name="Tennis_1_9_1">Monte Carlo Masters</string>
+    <string name="Tennis_1_9_2">Miami Open</string>
+    <string name="Tennis_1_9_3">Indian Wells Masters</string>
+    <string name="Tennis_1_9_4">Cincinnati Masters</string>
+    <string name="Tennis_1_9_answer">3</string>
+
+    <string name="Tennis_1_10_question">What is the maximum number of challenges a player can make in a set at Wimbledon?</string>
+    <string name="Tennis_1_10_1">2</string>
+    <string name="Tennis_1_10_2">3</string>
+    <string name="Tennis_1_10_3">4</string>
+    <string name="Tennis_1_10_4">Unlimited</string>
+    <string name="Tennis_1_10_answer">2</string>
+
+    <string name="Tennis_2_1_question">Which of these players retired undefeated against Roger Federer?</string>
+    <string name="Tennis_2_1_1">Andy Roddick</string>
+    <string name="Tennis_2_1_2">Nikolay Davydenko</string>
+    <string name="Tennis_2_1_3">Marat Safin</string>
+    <string name="Tennis_2_1_4">Andre Agassi</string>
+    <string name="Tennis_2_1_answer">2</string>
+
+    <string name="Tennis_2_2_question">Which Grand Slam is played on two main court surfaces, Rebound Ace and Plexicushion?</string>
+    <string name="Tennis_2_2_1">US Open</string>
+    <string name="Tennis_2_2_2">Australian Open</string>
+    <string name="Tennis_2_2_3">Wimbledon</string>
+    <string name="Tennis_2_2_4">French Open</string>
+    <string name="Tennis_2_2_answer">2</string>
+
+    <string name="Tennis_2_3_question">Who is the oldest Grand Slam champion in the Open Era?</string>
+    <string name="Tennis_2_3_1">Serena Williams</string>
+    <string name="Tennis_2_3_2">Roger Federer</string>
+    <string name="Tennis_2_3_3">Ken Rosewall</string>
+    <string name="Tennis_2_3_4">Venus Williams</string>
+    <string name="Tennis_2_3_answer">3</string>
+
+    <string name="Tennis_2_4_question">Which tennis player is known as "The King of Clay"?</string>
+    <string name="Tennis_2_4_1">Novak Djokovic</string>
+    <string name="Tennis_2_4_2">Rafael Nadal</string>
+    <string name="Tennis_2_4_3">Roger Federer</string>
+    <string name="Tennis_2_4_4">Andy Murray</string>
+    <string name="Tennis_2_4_answer">2</string>
+
+    <string name="Tennis_2_5_question">Which tennis player was stabbed on court in 1993?</string>
+    <string name="Tennis_2_5_1">Martina Navratilova</string>
+    <string name="Tennis_2_5_2">Steffi Graf</string>
+    <string name="Tennis_2_5_3">Monica Seles</string>
+    <string name="Tennis_2_5_4">Gabriela Sabatini</string>
+    <string name="Tennis_2_5_answer">3</string>
+
+    <string name="Tennis_2_6_question">Which country hosts the Davis Cup?</string>
+    <string name="Tennis_2_6_1">It varies by year.</string>
+    <string name="Tennis_2_6_2">USA</string>
+    <string name="Tennis_2_6_3">UK</string>
+    <string name="Tennis_2_6_4">France</string>
+    <string name="Tennis_2_6_answer">1</string>
+
+    <string name="Tennis_2_7_question">Who won the longest ever tennis match at Wimbledon in 2010?</string>
+    <string name="Tennis_2_7_1">Roger Federer</string>
+    <string name="Tennis_2_7_2">Rafael Nadal</string>
+    <string name="Tennis_2_7_3">John Isner</string>
+    <string name="Tennis_2_7_4">Novak Djokovic</string>
+    <string name="Tennis_2_7_answer">3</string>
+
+    <string name="Tennis_2_8_question">Which player has a famous two-handed forehand and backhand?</string>
+    <string name="Tennis_2_8_1">Serena Williams</string>
+    <string name="Tennis_2_8_2">Maria Sharapova</string>
+    <string name="Tennis_2_8_3">Monica Seles</string>
+    <string name="Tennis_2_8_4">Simona Halep</string>
+    <string name="Tennis_2_8_answer">3</string>
+
+    <string name="Tennis_2_9_question">Which Grand Slam did not have a tiebreak in the final set until 2019?</string>
+    <string name="Tennis_2_9_1">US Open</string>
+    <string name="Tennis_2_9_2">Australian Open</string>
+    <string name="Tennis_2_9_3">French Open</string>
+    <string name="Tennis_2_9_4">Wimbledon</string>
+    <string name="Tennis_2_9_answer">4</string>
+
+    <string name="Tennis_2_10_question">Which famous tennis player has a shot named "tweener" associated with him?</string>
+    <string name="Tennis_2_10_1">Pete Sampras</string>
+    <string name="Tennis_2_10_2">Andre Agassi</string>
+    <string name="Tennis_2_10_3">Rafael Nadal</string>
+    <string name="Tennis_2_10_4">Roger Federer</string>
+    <string name="Tennis_2_10_answer">4</string>
+
+    <string name="Tennis_3_1_question">Who won the women\'s singles gold medal at the 2016 Rio Olympics?</string>
+    <string name="Tennis_3_1_1">Serena Williams</string>
+    <string name="Tennis_3_1_2">Angelique Kerber</string>
+    <string name="Tennis_3_1_3">Monica Puig</string>
+    <string name="Tennis_3_1_4">Garbiñe Muguruza</string>
+    <string name="Tennis_3_1_answer">3</string>
+
+    <string name="Tennis_3_2_question">Which female tennis player completed the calendar year Grand Slam in 1953?</string>
+    <string name="Tennis_3_2_1">Billie Jean King</string>
+    <string name="Tennis_3_2_2">Althea Gibson</string>
+    <string name="Tennis_3_2_3">Margaret Court</string>
+    <string name="Tennis_3_2_4">Maureen Connolly</string>
+    <string name="Tennis_3_2_answer">4</string>
+
+    <string name="Tennis_3_3_question">Which of the following doubles teams are brothers?</string>
+    <string name="Tennis_3_3_1">Bob and Mike Bryan</string>
+    <string name="Tennis_3_3_2">Daniel Nestor and Nenad Zimonjić</string>
+    <string name="Tennis_3_3_3">Pierre-Hugues Herbert and Nicolas Mahut</string>
+    <string name="Tennis_3_3_4">Leander Paes and Radek Štěpánek</string>
+    <string name="Tennis_3_3_answer">1</string>
+
+    <string name="Tennis_3_4_question">Who has the most doubles Grand Slam titles in men\'s tennis?</string>
+    <string name="Tennis_3_4_1">John Newcombe</string>
+    <string name="Tennis_3_4_2">Todd Woodbridge</string>
+    <string name="Tennis_3_4_3">Leander Paes</string>
+    <string name="Tennis_3_4_4">Mark Woodforde</string>
+    <string name="Tennis_3_4_answer">2</string>
+
+    <string name="Tennis_3_5_question">Which tennis player is known for the "Sabr" (Sneak Attack by Roger) shot?</string>
+    <string name="Tennis_3_5_1">Rafael Nadal</string>
+    <string name="Tennis_3_5_2">Roger Federer</string>
+    <string name="Tennis_3_5_3">Novak Djokovic</string>
+    <string name="Tennis_3_5_4">Andy Murray</string>
+    <string name="Tennis_3_5_answer">2</string>
+
+    <string name="Tennis_3_6_question">Which player ended the year 2019 as the World No. 1 in women\'s tennis?</string>
+    <string name="Tennis_3_6_1">Naomi Osaka</string>
+    <string name="Tennis_3_6_2">Simona Halep</string>
+    <string name="Tennis_3_6_3">Ashleigh Barty</string>
+    <string name="Tennis_3_6_4">Karolína Plíšková</string>
+    <string name="Tennis_3_6_answer">3</string>
+
+    <string name="Tennis_3_7_question">Which male tennis player is famous for his left-handed serve and is often called the "Serve-bot"?</string>
+    <string name="Tennis_3_7_1">Rafael Nadal</string>
+    <string name="Tennis_3_7_2">Ivo Karlovic</string>
+    <string name="Tennis_3_7_3">Andy Murray</string>
+    <string name="Tennis_3_7_4">John Isner</string>
+    <string name="Tennis_3_7_answer">4</string>
+
+    <string name="Tennis_3_8_question">What is the maximum number of sets a men\'s singles match can have at Grand Slams, excluding the US Open?</string>
+    <string name="Tennis_3_8_1">3</string>
+    <string name="Tennis_3_8_2">4</string>
+    <string name="Tennis_3_8_3">5</string>
+    <string name="Tennis_3_8_4">6</string>
+    <string name="Tennis_3_8_answer">3</string>
+
+    <string name="Tennis_3_9_question">Who is the only player to defeat both Serena and Venus Williams in the same Grand Slam tournament?</string>
+    <string name="Tennis_3_9_1">Justine Henin</string>
+    <string name="Tennis_3_9_2">Martina Hingis</string>
+    <string name="Tennis_3_9_3">Kim Clijsters</string>
+    <string name="Tennis_3_9_4">Lindsay Davenport</string>
+    <string name="Tennis_3_9_answer">1</string>
+
+    <string name="Tennis_3_10_question">Which tennis player was known for his volleying skills and was nicknamed "The Scissor Kick"?</string>
+    <string name="Tennis_3_10_1">Stefan Edberg</string>
+    <string name="Tennis_3_10_2">Rod Laver</string>
+    <string name="Tennis_3_10_3">Boris Becker</string>
+    <string name="Tennis_3_10_4">Pete Sampras</string>
+    <string name="Tennis_3_10_answer">3</string>
+
+    <string name="Tennis_4_1_question">Which female tennis player was known for her powerful and aggressive playing style and was nicknamed "Boom Boom"?</string>
+    <string name="Tennis_4_1_1">Steffi Graf</string>
+    <string name="Tennis_4_1_2">Monica Seles</string>
+    <string name="Tennis_4_1_3">Lindsay Davenport</string>
+    <string name="Tennis_4_1_4">Maria Sharapova</string>
+    <string name="Tennis_4_1_answer">1</string>
+
+    <string name="Tennis_4_2_question">Which country does the tennis player Milos Raonic represent?</string>
+    <string name="Tennis_4_2_1">USA</string>
+    <string name="Tennis_4_2_2">Canada</string>
+    <string name="Tennis_4_2_3">Serbia</string>
+    <string name="Tennis_4_2_4">Croatia</string>
+    <string name="Tennis_4_2_answer">2</string>
+
+    <string name="Tennis_4_3_question">Who defeated Serena Williams in the 2018 US Open final?</string>
+    <string name="Tennis_4_3_1">Naomi Osaka</string>
+    <string name="Tennis_4_3_2">Simona Halep</string>
+    <string name="Tennis_4_3_3">Angelique Kerber</string>
+    <string name="Tennis_4_3_4">Garbiñe Muguruza</string>
+    <string name="Tennis_4_3_answer">1</string>
+
+    <string name="Tennis_4_4_question">Which tennis player is known for the quote, "You cannot be serious!"?</string>
+    <string name="Tennis_4_4_1">John McEnroe</string>
+    <string name="Tennis_4_4_2">Björn Borg</string>
+    <string name="Tennis_4_4_3">Ivan Lendl</string>
+    <string name="Tennis_4_4_4">Jimmy Connors</string>
+    <string name="Tennis_4_4_answer">1</string>
+
+    <string name="Tennis_4_5_question">How many Grand Slam titles has Martina Navratilova won in total (singles, doubles, and mixed doubles combined)?</string>
+    <string name="Tennis_4_5_1">18</string>
+    <string name="Tennis_4_5_2">22</string>
+    <string name="Tennis_4_5_3">31</string>
+    <string name="Tennis_4_5_4">59</string>
+    <string name="Tennis_4_5_answer">4</string>
+
+    <string name="Tennis_4_6_question">Who was the first Asian player to win a Grand Slam singles title?</string>
+    <string name="Tennis_4_6_1">Kei Nishikori</string>
+    <string name="Tennis_4_6_2">Li Na</string>
+    <string name="Tennis_4_6_3">Naomi Osaka</string>
+    <string name="Tennis_4_6_4">Kimiko Date-Krumm</string>
+    <string name="Tennis_4_6_answer">2</string>
+
+    <string name="Tennis_4_7_question">Which of these players has the nickname "Muscles"?</string>
+    <string name="Tennis_4_7_1">Andre Agassi</string>
+    <string name="Tennis_4_7_2">Ken Rosewall</string>
+    <string name="Tennis_4_7_3">Goran Ivanišević</string>
+    <string name="Tennis_4_7_4">Stan Wawrinka</string>
+    <string name="Tennis_4_7_answer">2</string>
+
+    <string name="Tennis_4_8_question">What unique feature does the court known as "Lenglen" have at Roland Garros (French Open)?</string>
+    <string name="Tennis_4_8_1">It\'s entirely indoors.</string>
+    <string name="Tennis_4_8_2">It has a grass surface.</string>
+    <string name="Tennis_4_8_3">It features a moat around the perimeter.</string>
+    <string name="Tennis_4_8_4">It\'s named after a famous French player, Suzanne Lenglen.</string>
+    <string name="Tennis_4_8_answer">4</string>
+
+    <string name="Tennis_4_9_question">Which of these players was known for his unique serve and volley style and won multiple Wimbledon titles in the 1990s?</string>
+    <string name="Tennis_4_9_1">Richard Krajicek</string>
+    <string name="Tennis_4_9_2">Pete Sampras</string>
+    <string name="Tennis_4_9_3">Boris Becker</string>
+    <string name="Tennis_4_9_4">Andre Agassi</string>
+    <string name="Tennis_4_9_answer">2</string>
+
+    <string name="Tennis_4_10_question">Which tennis player, known for her baseline playing style, was called the "Swiss Miss"?</string>
+    <string name="Tennis_4_10_1">Martina Hingis</string>
+    <string name="Tennis_4_10_2">Timea Bacsinszky</string>
+    <string name="Tennis_4_10_3">Patty Schnyder</string>
+    <string name="Tennis_4_10_4">Belinda Bencic</string>
+    <string name="Tennis_4_10_answer">1</string>
+
+    <string name="Tennis_5_1_question">Which Grand Slam tournament is played at Flushing Meadows?</string>
+    <string name="Tennis_5_1_1">Wimbledon</string>
+    <string name="Tennis_5_1_2">French Open</string>
+    <string name="Tennis_5_1_3">Australian Open</string>
+    <string name="Tennis_5_1_4">US Open</string>
+    <string name="Tennis_5_1_answer">4</string>
+
+    <string name="Tennis_5_2_question">Who is the only tennis player to have won each of the Grand Slam tournaments at least four times in the Open Era?</string>
+    <string name="Tennis_5_2_1">Rafael Nadal</string>
+    <string name="Tennis_5_2_2">Novak Djokovic</string>
+    <string name="Tennis_5_2_3">Rod Laver</string>
+    <string name="Tennis_5_2_4">Roger Federer</string>
+    <string name="Tennis_5_2_answer">2</string>
+
+    <string name="Tennis_5_3_question">Which tennis player was known for his backhand slice and was called "The Magician"?</string>
+    <string name="Tennis_5_3_1">Fabrice Santoro</string>
+    <string name="Tennis_5_3_2">Gustavo Kuerten</string>
+    <string name="Tennis_5_3_3">Marat Safin</string>
+    <string name="Tennis_5_3_4">Tommy Haas</string>
+    <string name="Tennis_5_3_answer">1</string>
+
+    <string name="Tennis_5_4_question">Who became the oldest World No. 1 in ATP history in 2018?</string>
+    <string name="Tennis_5_4_1">Rafael Nadal</string>
+    <string name="Tennis_5_4_2">Roger Federer</string>
+    <string name="Tennis_5_4_3">Novak Djokovic</string>
+    <string name="Tennis_5_4_4">Andy Murray</string>
+    <string name="Tennis_5_4_answer">2</string>
+
+    <string name="Tennis_5_5_question">Who won the women\'s singles gold medal at the 2008 Beijing Olympics?</string>
+    <string name="Tennis_5_5_1">Elena Dementieva</string>
+    <string name="Tennis_5_5_2">Dinara Safina</string>
+    <string name="Tennis_5_5_3">Vera Zvonareva</string>
+    <string name="Tennis_5_5_4">Maria Sharapova</string>
+    <string name="Tennis_5_5_answer">1</string>
+
+    <string name="Tennis_5_6_question">Which of the following pairs is not a famous doubles team in men\'s tennis?</string>
+    <string name="Tennis_5_6_1">Bob and Mike Bryan</string>
+    <string name="Tennis_5_6_2">Daniel Nestor and Max Mirnyi</string>
+    <string name="Tennis_5_6_3">Jonas Björkman and Todd Woodbridge</string>
+    <string name="Tennis_5_6_4">Roger Federer and Rafael Nadal</string>
+    <string name="Tennis_5_6_answer">4</string>
+
+    <string name="Tennis_5_7_question">Who was the first unseeded player to win the men\'s singles title at Wimbledon?</string>
+    <string name="Tennis_5_7_1">Boris Becker</string>
+    <string name="Tennis_5_7_2">Goran Ivanišević</string>
+    <string name="Tennis_5_7_3">John McEnroe</string>
+    <string name="Tennis_5_7_4">Pete Sampras</string>
+    <string name="Tennis_5_7_answer">1</string>
+
+    <string name="Tennis_5_8_question">In which year did the tiebreak system get introduced in tennis?</string>
+    <string name="Tennis_5_8_1">1955</string>
+    <string name="Tennis_5_8_2">1965</string>
+    <string name="Tennis_5_8_3">1970</string>
+    <string name="Tennis_5_8_4">1980</string>
+    <string name="Tennis_5_8_answer">3</string>
+
+    <string name="Tennis_5_9_question">Which tennis player was nicknamed "The Punisher" for his relentless playing style?</string>
+    <string name="Tennis_5_9_1">Andre Agassi</string>
+    <string name="Tennis_5_9_2">Jimmy Connors</string>
+    <string name="Tennis_5_9_3">Ivan Lendl</string>
+    <string name="Tennis_5_9_4">Björn Borg</string>
+    <string name="Tennis_5_9_answer">1</string>
+
+    <string name="Tennis_5_10_question">Which nation has won the most Davis Cup titles?</string>
+    <string name="Tennis_5_10_1">USA</string>
+    <string name="Tennis_5_10_2">Australia</string>
+    <string name="Tennis_5_10_3">France</string>
+    <string name="Tennis_5_10_4">Great Britain</string>
+    <string name="Tennis_5_10_answer">1</string>
+
+    <string name="Box_1_1_question">Who is known as "The Greatest" in boxing?</string>
+    <string name="Box_1_1_1">Mike Tyson</string>
+    <string name="Box_1_1_2">Joe Frazier</string>
+    <string name="Box_1_1_3">Muhammad Ali</string>
+    <string name="Box_1_1_4">George Foreman</string>
+    <string name="Box_1_1_answer">3</string>
+
+    <string name="Box_1_2_question">Which boxer was known as "The Hitman"?</string>
+    <string name="Box_1_2_1">Floyd Mayweather Jr.</string>
+    <string name="Box_1_2_2">Tommy Hearns</string>
+    <string name="Box_1_2_3">Sugar Ray Leonard</string>
+    <string name="Box_1_2_4">Manny Pacquiao</string>
+    <string name="Box_1_2_answer">2</string>
+
+    <string name="Box_1_3_question">Who defeated Mike Tyson in 1990 in one of boxing\'s biggest upsets?</string>
+    <string name="Box_1_3_1">Evander Holyfield</string>
+    <string name="Box_1_3_2">Lennox Lewis</string>
+    <string name="Box_1_3_3">Buster Douglas</string>
+    <string name="Box_1_3_4">Riddick Bowe</string>
+    <string name="Box_1_3_answer">3</string>
+
+    <string name="Box_1_4_question">Where was Manny Pacquiao born?</string>
+    <string name="Box_1_4_1">Thailand</string>
+    <string name="Box_1_4_2">Mexico</string>
+    <string name="Box_1_4_3">Philippines</string>
+    <string name="Box_1_4_4">Indonesia</string>
+    <string name="Box_1_4_answer">3</string>
+
+    <string name="Box_1_5_question">Which of the following boxers remained undefeated throughout his professional career?</string>
+    <string name="Box_1_5_1">Oscar De La Hoya</string>
+    <string name="Box_1_5_2">Floyd Mayweather Jr.</string>
+    <string name="Box_1_5_3">Wladimir Klitschko</string>
+    <string name="Box_1_5_4">Roy Jones Jr.</string>
+    <string name="Box_1_5_answer">2</string>
+
+    <string name="Box_1_6_question">Who is known as the "Golden Boy" in boxing?</string>
+    <string name="Box_1_6_1">Canelo Alvarez</string>
+    <string name="Box_1_6_2">Oscar De La Hoya</string>
+    <string name="Box_1_6_3">Julio Cesar Chavez</string>
+    <string name="Box_1_6_4">Shane Mosley</string>
+    <string name="Box_1_6_answer">2</string>
+
+    <string name="Box_1_7_question">Which heavyweight boxer was known for his phrase "Float like a butterfly, sting like a bee"?</string>
+    <string name="Box_1_7_1">Muhammad Ali</string>
+    <string name="Box_1_7_2">George Foreman</string>
+    <string name="Box_1_7_3">Joe Frazier</string>
+    <string name="Box_1_7_4">Lennox Lewis</string>
+    <string name="Box_1_7_answer">1</string>
+
+    <string name="Box_1_8_question">Who did Floyd Mayweather Jr. fight in the "Fight of the Century" in 2015?</string>
+    <string name="Box_1_8_1">Manny Pacquiao</string>
+    <string name="Box_1_8_2">Conor McGregor</string>
+    <string name="Box_1_8_3">Saul \'Canelo\' Alvarez</string>
+    <string name="Box_1_8_4">Marcos Maidana</string>
+    <string name="Box_1_8_answer">1</string>
+
+    <string name="Box_1_9_question">Which country is boxer Canelo Alvarez from?</string>
+    <string name="Box_1_9_1">Spain</string>
+    <string name="Box_1_9_2">Argentina</string>
+    <string name="Box_1_9_3">Mexico</string>
+    <string name="Box_1_9_4">Puerto Rico</string>
+    <string name="Box_1_9_answer">3</string>
+
+    <string name="Box_1_10_question">What weight class is directly below heavyweight in professional boxing?</string>
+    <string name="Box_1_10_1">Light Heavyweight</string>
+    <string name="Box_1_10_2">Cruiserweight</string>
+    <string name="Box_1_10_3">Middleweight</string>
+    <string name="Box_1_10_4">Welterweight</string>
+    <string name="Box_1_10_answer">2</string>
+
+    <string name="Box_2_1_question">Who is known as the "Baddest Man on the Planet"?</string>
+    <string name="Box_2_1_1">Evander Holyfield</string>
+    <string name="Box_2_1_2">George Foreman</string>
+    <string name="Box_2_1_3">Mike Tyson</string>
+    <string name="Box_2_1_4">Lennox Lewis</string>
+    <string name="Box_2_1_answer">3</string>
+
+    <string name="Box_2_2_question">Which boxer bit off a part of Evander Holyfield\'s ear during a match?</string>
+    <string name="Box_2_2_1">Riddick Bowe</string>
+    <string name="Box_2_2_2">Mike Tyson</string>
+    <string name="Box_2_2_3">Lennox Lewis</string>
+    <string name="Box_2_2_4">Shannon Briggs</string>
+    <string name="Box_2_2_answer">2</string>
+
+    <string name="Box_2_3_question">Which country does boxer Anthony Joshua represent?</string>
+    <string name="Box_2_3_1">USA</string>
+    <string name="Box_2_3_2">Nigeria</string>
+    <string name="Box_2_3_3">UK</string>
+    <string name="Box_2_3_4">Canada</string>
+    <string name="Box_2_3_answer">3</string>
+
+    <string name="Box_2_4_question">What is the maximum weight for a boxer to qualify as a lightweight?</string>
+    <string name="Box_2_4_1">126 lbs</string>
+    <string name="Box_2_4_2">130 lbs</string>
+    <string name="Box_2_4_3">135 lbs</string>
+    <string name="Box_2_4_4">140 lbs</string>
+    <string name="Box_2_4_answer">3</string>
+
+    <string name="Box_2_5_question">Who was known as "The Brown Bomber"?</string>
+    <string name="Box_2_5_1">Jack Johnson</string>
+    <string name="Box_2_5_2">Rocky Marciano</string>
+    <string name="Box_2_5_3">Sugar Ray Robinson</string>
+    <string name="Box_2_5_4">Joe Louis</string>
+    <string name="Box_2_5_answer">4</string>
+
+    <string name="Box_2_6_question">Which boxer was involved in the "Rumble in the Jungle" against Muhammad Ali?</string>
+    <string name="Box_2_6_1">George Foreman</string>
+    <string name="Box_2_6_2">Joe Frazier</string>
+    <string name="Box_2_6_3">Sonny Liston</string>
+    <string name="Box_2_6_4">Ken Norton</string>
+    <string name="Box_2_6_answer">1</string>
+
+    <string name="Box_2_7_question">Who was the reigning Heavyweight Champion before Mike Tyson defeated him in 1986?</string>
+    <string name="Box_2_7_1">Michael Spinks</string>
+    <string name="Box_2_7_2">Trevor Berbick</string>
+    <string name="Box_2_7_3">Larry Holmes</string>
+    <string name="Box_2_7_4">James Smith</string>
+    <string name="Box_2_7_answer">2</string>
+
+    <string name="Box_2_8_question">Which of these fighters has never been defeated by Floyd Mayweather Jr.?</string>
+    <string name="Box_2_8_1">Ricky Hatton</string>
+    <string name="Box_2_8_2">Andre Berto</string>
+    <string name="Box_2_8_3">Oscar De La Hoya</string>
+    <string name="Box_2_8_4">Terence Crawford</string>
+    <string name="Box_2_8_answer">4</string>
+
+    <string name="Box_2_9_question">Which boxer was famously known as "The Easton Assassin"?</string>
+    <string name="Box_2_9_1">Marvin Hagler</string>
+    <string name="Box_2_9_2">Roberto Duran</string>
+    <string name="Box_2_9_3">Larry Holmes</string>
+    <string name="Box_2_9_4">Tommy Hearns</string>
+    <string name="Box_2_9_answer">3</string>
+
+    <string name="Box_2_10_question">What year did Muhammad Ali retire from professional boxing?</string>
+    <string name="Box_2_10_1">1978</string>
+    <string name="Box_2_10_2">1979</string>
+    <string name="Box_2_10_3">1980</string>
+    <string name="Box_2_10_4">1981</string>
+    <string name="Box_2_10_answer">4</string>
+
+    <string name="Box_3_1_question">Who was the first boxer to win titles in eight different weight classes?</string>
+    <string name="Box_3_1_1">Floyd Mayweather Jr.</string>
+    <string name="Box_3_1_2">Manny Pacquiao</string>
+    <string name="Box_3_1_3">Sugar Ray Leonard</string>
+    <string name="Box_3_1_4">Thomas Hearns</string>
+    <string name="Box_3_1_answer">2</string>
+
+    <string name="Box_3_2_question">How many times did Muhammad Ali and Joe Frazier fight professionally?</string>
+    <string name="Box_3_2_1">Twice</string>
+    <string name="Box_3_2_2">Thrice</string>
+    <string name="Box_3_2_3">Once</string>
+    <string name="Box_3_2_4">Four times</string>
+    <string name="Box_3_2_answer">2</string>
+
+    <string name="Box_3_3_question">Which boxer was famous for the "Philly Shell" defensive stance?</string>
+    <string name="Box_3_3_1">Bernard Hopkins</string>
+    <string name="Box_3_3_2">Joe Frazier</string>
+    <string name="Box_3_3_3">Floyd Mayweather Jr.</string>
+    <string name="Box_3_3_4">Sugar Ray Leonard</string>
+    <string name="Box_3_3_answer">3</string>
+
+    <string name="Box_3_4_question">Who became the youngest World Heavyweight Champion in history?</string>
+    <string name="Box_3_4_1">Joe Louis</string>
+    <string name="Box_3_4_2">Mike Tyson</string>
+    <string name="Box_3_4_3">Evander Holyfield</string>
+    <string name="Box_3_4_4">Lennox Lewis</string>
+    <string name="Box_3_4_answer">2</string>
+
+    <string name="Box_3_5_question">Which country does the boxer Vasyl Lomachenko hail from?</string>
+    <string name="Box_3_5_1">Russia</string>
+    <string name="Box_3_5_2">Kazakhstan</string>
+    <string name="Box_3_5_3">Ukraine</string>
+    <string name="Box_3_5_4">Belarus</string>
+    <string name="Box_3_5_answer">3</string>
+
+    <string name="Box_3_6_question">Which boxer was nicknamed "Sugar"?</string>
+    <string name="Box_3_6_1">Joe Louis</string>
+    <string name="Box_3_6_2">Roy Jones Jr.</string>
+    <string name="Box_3_6_3">Ray Robinson</string>
+    <string name="Box_3_6_4">Marvin Hagler</string>
+    <string name="Box_3_6_answer">3</string>
+
+    <string name="Box_3_7_question">The match dubbed as "The Thrilla in Manila" was between which two boxers?</string>
+    <string name="Box_3_7_1">Muhammad Ali and Sonny Liston</string>
+    <string name="Box_3_7_2">George Foreman and Joe Frazier</string>
+    <string name="Box_3_7_3">Mike Tyson and Evander Holyfield</string>
+    <string name="Box_3_7_4">Muhammad Ali and Joe Frazier</string>
+    <string name="Box_3_7_answer">4</string>
+
+    <string name="Box_3_8_question">Which boxer starred in the "Rocky" movie series?</string>
+    <string name="Box_3_8_1">Rocky Marciano</string>
+    <string name="Box_3_8_2">Sylvester Stallone</string>
+    <string name="Box_3_8_3">Sugar Ray Leonard</string>
+    <string name="Box_3_8_4">Vinny Pazienza</string>
+    <string name="Box_3_8_answer">2</string>
+
+    <string name="Box_3_9_question">Which of the following is NOT a boxing weight class?</string>
+    <string name="Box_3_9_1">Light Flyweight</string>
+    <string name="Box_3_9_2">Ultra Middleweight</string>
+    <string name="Box_3_9_3">Bantamweight</string>
+    <string name="Box_3_9_4">Featherweight</string>
+    <string name="Box_3_9_answer">2</string>
+
+    <string name="Box_3_10_question">Who is the most famous boxer from Nicaragua?</string>
+    <string name="Box_3_10_1">Roberto Duran</string>
+    <string name="Box_3_10_2">Alexis Arguello</string>
+    <string name="Box_3_10_3">Felix Trinidad</string>
+    <string name="Box_3_10_4">Juan Manuel Marquez</string>
+    <string name="Box_3_10_answer">2</string>
+
+    <string name="Box_4_1_question">Which boxing legend has a defensive move named the "Rope-a-Dope"?</string>
+    <string name="Box_4_1_1">Muhammad Ali</string>
+    <string name="Box_4_1_2">Mike Tyson</string>
+    <string name="Box_4_1_3">Floyd Mayweather Jr.</string>
+    <string name="Box_4_1_4">Evander Holyfield</string>
+    <string name="Box_4_1_answer">1</string>
+
+    <string name="Box_4_2_question">Which boxer, known for his ferocious punching power, was called "Hands of Stone"?</string>
+    <string name="Box_4_2_1">Marvin Hagler</string>
+    <string name="Box_4_2_2">Roberto Duran</string>
+    <string name="Box_4_2_3">Sonny Liston</string>
+    <string name="Box_4_2_4">Jake LaMotta</string>
+    <string name="Box_4_2_answer">2</string>
+
+    <string name="Box_4_3_question">Who was the first boxer to defeat Mike Tyson?</string>
+    <string name="Box_4_3_1">Evander Holyfield</string>
+    <string name="Box_4_3_2">James "Buster" Douglas</string>
+    <string name="Box_4_3_3">Lennox Lewis</string>
+    <string name="Box_4_3_4">Donovan Ruddock</string>
+    <string name="Box_4_3_answer">2</string>
+
+    <string name="Box_4_4_question">Which of these fighters was not defeated by Muhammad Ali?</string>
+    <string name="Box_4_4_1">George Foreman</string>
+    <string name="Box_4_4_2">Sonny Liston</string>
+    <string name="Box_4_4_3">Rocky Marciano</string>
+    <string name="Box_4_4_4">Floyd Patterson</string>
+    <string name="Box_4_4_answer">3</string>
+
+    <string name="Box_4_5_question">Which city is historically considered the hub of British boxing?</string>
+    <string name="Box_4_5_1">Manchester</string>
+    <string name="Box_4_5_2">Liverpool</string>
+    <string name="Box_4_5_3">London</string>
+    <string name="Box_4_5_4">Birmingham</string>
+    <string name="Box_4_5_answer">3</string>
+
+    <string name="Box_4_6_question">Which of these boxers was never knocked out during his professional career?</string>
+    <string name="Box_4_6_1">Joe Frazier</string>
+    <string name="Box_4_6_2">George Foreman</string>
+    <string name="Box_4_6_3">Lennox Lewis</string>
+    <string name="Box_4_6_4">Rocky Marciano</string>
+    <string name="Box_4_6_answer">4</string>
+
+    <string name="Box_4_7_question">Which country does Gennady "GGG" Golovkin hail from?</string>
+    <string name="Box_4_7_1">Uzbekistan</string>
+    <string name="Box_4_7_2">Russia</string>
+    <string name="Box_4_7_3">Kazakhstan</string>
+    <string name="Box_4_7_4">Ukraine</string>
+    <string name="Box_4_7_answer">3</string>
+
+    <string name="Box_4_8_question">Which boxer was famous for saying "Everybody has a plan until they get punched in the mouth"?</string>
+    <string name="Box_4_8_1">Floyd Mayweather Jr.</string>
+    <string name="Box_4_8_2">Muhammad Ali</string>
+    <string name="Box_4_8_3">Mike Tyson</string>
+    <string name="Box_4_8_4">Manny Pacquiao</string>
+    <string name="Box_4_8_answer">3</string>
+
+    <string name="Box_4_9_question">In which weight class did Oscar De La Hoya NOT win a world title?</string>
+    <string name="Box_4_9_1">Lightweight</string>
+    <string name="Box_4_9_2">Middleweight</string>
+    <string name="Box_4_9_3">Light Flyweight</string>
+    <string name="Box_4_9_4">Welterweight</string>
+    <string name="Box_4_9_answer">3</string>
+
+    <string name="Box_4_10_question">Who did Anthony Joshua lose his first professional fight to?</string>
+    <string name="Box_4_10_1">Tyson Fury</string>
+    <string name="Box_4_10_2">Deontay Wilder</string>
+    <string name="Box_4_10_3">Dillian Whyte</string>
+    <string name="Box_4_10_4">Andy Ruiz Jr.</string>
+    <string name="Box_4_10_answer">4</string>
+
+    <string name="Box_5_1_question">Which boxer was known as "The Celtic Warrior"?</string>
+    <string name="Box_5_1_1">Steve Collins</string>
+    <string name="Box_5_1_2">Barry McGuigan</string>
+    <string name="Box_5_1_3">Ricky Hatton</string>
+    <string name="Box_5_1_4">Joe Calzaghe</string>
+    <string name="Box_5_1_answer">1</string>
+
+    <string name="Box_5_2_question">Which British boxer is known for his switch-hitting style?</string>
+    <string name="Box_5_2_1">Chris Eubank Jr.</string>
+    <string name="Box_5_2_2">Anthony Yarde</string>
+    <string name="Box_5_2_3">Tyson Fury</string>
+    <string name="Box_5_2_4">Billy Joe Saunders</string>
+    <string name="Box_5_2_answer">4</string>
+
+    <string name="Box_5_3_question">In which round did Mike Tyson knockout Michael Spinks?</string>
+    <string name="Box_5_3_1">Round 1</string>
+    <string name="Box_5_3_2">Round 2</string>
+    <string name="Box_5_3_3">Round 5</string>
+    <string name="Box_5_3_4">Round 8</string>
+    <string name="Box_5_3_answer">1</string>
+
+    <string name="Box_5_4_question">Who did Lennox Lewis defeat to win his first professional heavyweight title?</string>
+    <string name="Box_5_4_1">Mike Tyson</string>
+    <string name="Box_5_4_2">Evander Holyfield</string>
+    <string name="Box_5_4_3">Riddick Bowe</string>
+    <string name="Box_5_4_4">Tony Tucker</string>
+    <string name="Box_5_4_answer">4</string>
+
+    <string name="Box_5_5_question">Who is considered the father of modern boxing due to his written rules in 1867?</string>
+    <string name="Box_5_5_1">John L. Sullivan</string>
+    <string name="Box_5_5_2">Jack Dempsey</string>
+    <string name="Box_5_5_3">Marquess of Queensberry</string>
+    <string name="Box_5_5_4">Jack Johnson</string>
+    <string name="Box_5_5_answer">3</string>
+
+    <string name="Box_5_6_question">Who did Floyd Mayweather fight in his 50th professional bout to surpass Rocky Marciano\'s record?</string>
+    <string name="Box_5_6_1">Conor McGregor</string>
+    <string name="Box_5_6_2">Andre Berto</string>
+    <string name="Box_5_6_3">Manny Pacquiao</string>
+    <string name="Box_5_6_4">Saul "Canelo" Alvarez</string>
+    <string name="Box_5_6_answer">1</string>
+
+    <string name="Box_5_7_question">Which legendary trainer worked with fighters like Mike Tyson, Evander Holyfield, and Lennox Lewis?</string>
+    <string name="Box_5_7_1">Eddie Futch</string>
+    <string name="Box_5_7_2">Angelo Dundee</string>
+    <string name="Box_5_7_3">Cus D\'Amato</string>
+    <string name="Box_5_7_4">Freddie Roach</string>
+    <string name="Box_5_7_answer">3</string>
+
+    <string name="Box_5_8_question">Which boxer was known for his rivalry with Muhammad Ali, having faced him three times and defeating him once?</string>
+    <string name="Box_5_8_1">Ken Norton</string>
+    <string name="Box_5_8_2">George Foreman</string>
+    <string name="Box_5_8_3">Joe Frazier</string>
+    <string name="Box_5_8_4">Leon Spinks</string>
+    <string name="Box_5_8_answer">3</string>
+
+    <string name="Box_5_9_question">Which of the following is a famous boxing venue in Las Vegas?</string>
+    <string name="Box_5_9_1">Camp Nou</string>
+    <string name="Box_5_9_2">Madison Square Garden</string>
+    <string name="Box_5_9_3">Staples Center</string>
+    <string name="Box_5_9_4">MGM Grand</string>
+    <string name="Box_5_9_answer">4</string>
+
+    <string name="Box_5_10_question">Who was the World Heavyweight Champion before the title was split into WBA, WBC, and later IBF and WBO?</string>
+    <string name="Box_5_10_1">Sonny Liston</string>
+    <string name="Box_5_10_2">Floyd Patterson</string>
+    <string name="Box_5_10_3">Joe Louis</string>
+    <string name="Box_5_10_4">Rocky Marciano</string>
+    <string name="Box_5_10_answer">2</string>
+
+    <string name="Cybersport_1_1_question">Which game is known for the term "Laning"?</string>
+    <string name="Cybersport_1_1_1">Rocket League</string>
+    <string name="Cybersport_1_1_2">FIFA</string>
+    <string name="Cybersport_1_1_3">Dota 2</string>
+    <string name="Cybersport_1_1_4">Counter-Strike: Global Offensive</string>
+    <string name="Cybersport_1_1_answer">3</string>
+
+    <string name="Cybersport_1_2_question">Which team won the first League of Legends World Championship in 2011?</string>
+    <string name="Cybersport_1_2_1">TSM</string>
+    <string name="Cybersport_1_2_2">Fnatic</string>
+    <string name="Cybersport_1_2_3">Cloud9</string>
+    <string name="Cybersport_1_2_4">SK Telecom T1</string>
+    <string name="Cybersport_1_2_answer">2</string>
+
+    <string name="Cybersport_1_3_question">"Overwatch" is developed by which company?</string>
+    <string name="Cybersport_1_3_1">Riot Games</string>
+    <string name="Cybersport_1_3_2">Blizzard Entertainment</string>
+    <string name="Cybersport_1_3_3">Epic Games</string>
+    <string name="Cybersport_1_3_4">Electronic Arts</string>
+    <string name="Cybersport_1_3_answer">2</string>
+
+    <string name="Cybersport_1_4_question">In which country was the esports team "Natus Vincere" founded?</string>
+    <string name="Cybersport_1_4_1">Russia</string>
+    <string name="Cybersport_1_4_2">United States</string>
+    <string name="Cybersport_1_4_3">South Korea</string>
+    <string name="Cybersport_1_4_4">Ukraine</string>
+    <string name="Cybersport_1_4_answer">4</string>
+
+    <string name="Cybersport_1_5_question">Which esports game features a map called "Dust II"?</string>
+    <string name="Cybersport_1_5_1">Counter-Strike: Global Offensive</string>
+    <string name="Cybersport_1_5_2">Valorant</string>
+    <string name="Cybersport_1_5_3">Rainbow Six Siege</string>
+    <string name="Cybersport_1_5_4">PUBG</string>
+    <string name="Cybersport_1_5_answer">1</string>
+
+    <string name="Cybersport_1_6_question">Which of these games is NOT a Battle Royale?</string>
+    <string name="Cybersport_1_6_1">Fortnite</string>
+    <string name="Cybersport_1_6_2">Apex Legends</string>
+    <string name="Cybersport_1_6_3">Valorant</string>
+    <string name="Cybersport_1_6_4">Warzone</string>
+    <string name="Cybersport_1_6_answer">3</string>
+
+    <string name="Cybersport_1_7_question">Who is known as the "face of Twitch" due to his popularity streaming Fortnite?</string>
+    <string name="Cybersport_1_7_1">Shroud</string>
+    <string name="Cybersport_1_7_2">Dr Disrespect</string>
+    <string name="Cybersport_1_7_3">Ninja</string>
+    <string name="Cybersport_1_7_4">TimTheTatman</string>
+    <string name="Cybersport_1_7_answer">3</string>
+
+    <string name="Cybersport_1_8_question">"The International" is the major annual tournament for which game?</string>
+    <string name="Cybersport_1_8_1">League of Legends</string>
+    <string name="Cybersport_1_8_2">Dota 2</string>
+    <string name="Cybersport_1_8_3">Starcraft II</string>
+    <string name="Cybersport_1_8_4">Hearthstone</string>
+    <string name="Cybersport_1_8_answer">2</string>
+
+    <string name="Cybersport_1_9_question">Which game features heroes like Jett, Phoenix, and Viper?</string>
+    <string name="Cybersport_1_9_1">Paladins</string>
+    <string name="Cybersport_1_9_2">Overwatch</string>
+    <string name="Cybersport_1_9_3">Valorant</string>
+    <string name="Cybersport_1_9_4">League of Legends</string>
+    <string name="Cybersport_1_9_answer">3</string>
+
+    <string name="Cybersport_1_10_question">In which year did esports make its debut at the Asian Games as a demonstration sport?</string>
+    <string name="Cybersport_1_10_1">2014</string>
+    <string name="Cybersport_1_10_2">2016</string>
+    <string name="Cybersport_1_10_3">2018</string>
+    <string name="Cybersport_1_10_4">2020</string>
+    <string name="Cybersport_1_10_answer">3</string>
+
+    <string name="Cybersport_2_1_question">Which game has the character "Teemo"?</string>
+    <string name="Cybersport_2_1_1">Dota 2</string>
+    <string name="Cybersport_2_1_2">League of Legends</string>
+    <string name="Cybersport_2_1_3">Heroes of the Storm</string>
+    <string name="Cybersport_2_1_4">Smite</string>
+    <string name="Cybersport_2_1_answer">2</string>
+
+    <string name="Cybersport_2_2_question">"Shroud", a popular streamer, was a professional player in which game?</string>
+    <string name="Cybersport_2_2_1">Fortnite</string>
+    <string name="Cybersport_2_2_2">League of Legends</string>
+    <string name="Cybersport_2_2_3">Overwatch</string>
+    <string name="Cybersport_2_2_4">Counter-Strike: Global Offensive</string>
+    <string name="Cybersport_2_2_answer">4</string>
+
+    <string name="Cybersport_2_3_question">Which team set the record for the highest earnings from a single esports event by winning The International 2019?</string>
+    <string name="Cybersport_2_3_1">Team Liquid</string>
+    <string name="Cybersport_2_3_2">Evil Geniuses</string>
+    <string name="Cybersport_2_3_3">OG</string>
+    <string name="Cybersport_2_3_4">Virtus.Pro</string>
+    <string name="Cybersport_2_3_answer">3</string>
+
+    <string name="Cybersport_2_4_question">Which of the following games does NOT have a character named "Ryu"?</string>
+    <string name="Cybersport_2_4_1">Tekken</string>
+    <string name="Cybersport_2_4_2">Street Fighter</string>
+    <string name="Cybersport_2_4_3">Super Smash Bros.</string>
+    <string name="Cybersport_2_4_4">Marvel vs. Capcom</string>
+    <string name="Cybersport_2_4_answer">1</string>
+
+    <string name="Cybersport_2_5_question">The "ELEAGUE Major" is associated with which game?</string>
+    <string name="Cybersport_2_5_1">Call of Duty</string>
+    <string name="Cybersport_2_5_2">Counter-Strike: Global Offensive</string>
+    <string name="Cybersport_2_5_3">Rocket League</string>
+    <string name="Cybersport_2_5_4">Rainbow Six Siege</string>
+    <string name="Cybersport_2_5_answer">2</string>
+
+    <string name="Cybersport_2_6_question">Which of these games was NOT developed by Blizzard Entertainment?</string>
+    <string name="Cybersport_2_6_1">Starcraft</string>
+    <string name="Cybersport_2_6_2">Hearthstone</string>
+    <string name="Cybersport_2_6_3">World of Warcraft</string>
+    <string name="Cybersport_2_6_4">Warframe</string>
+    <string name="Cybersport_2_6_answer">4</string>
+
+    <string name="Cybersport_2_7_question">Which esports organization was founded by Matthew "Nadeshot" Haag?</string>
+    <string name="Cybersport_2_7_1">Cloud9</string>
+    <string name="Cybersport_2_7_2">100 Thieves</string>
+    <string name="Cybersport_2_7_3">Team SoloMid</string>
+    <string name="Cybersport_2_7_4">OpTic Gaming</string>
+    <string name="Cybersport_2_7_answer">2</string>
+
+    <string name="Cybersport_2_8_question">Which city hosted the 2020 League of Legends World Championship final?</string>
+    <string name="Cybersport_2_8_1">Paris</string>
+    <string name="Cybersport_2_8_2">Seoul</string>
+    <string name="Cybersport_2_8_3">Shanghai</string>
+    <string name="Cybersport_2_8_4">Los Angeles</string>
+    <string name="Cybersport_2_8_answer">3</string>
+
+    <string name="Cybersport_2_9_question">Which character in Overwatch says the line, "Cheers love, the cavalry's here!"?</string>
+    <string name="Cybersport_2_9_1">Mercy</string>
+    <string name="Cybersport_2_9_2">D.Va</string>
+    <string name="Cybersport_2_9_3">Tracer</string>
+    <string name="Cybersport_2_9_4">Widowmaker</string>
+    <string name="Cybersport_2_9_answer">3</string>
+
+    <string name="Cybersport_2_10_question">"Summoner's Rift" is a map in which game?</string>
+    <string name="Cybersport_2_10_1">Smite</string>
+    <string name="Cybersport_2_10_2">Dota 2</string>
+    <string name="Cybersport_2_10_3">Heroes of the Storm</string>
+    <string name="Cybersport_2_10_4">League of Legends</string>
+    <string name="Cybersport_2_10_answer">4</string>
+
+    <string name="Cybersport_3_1_question">Who was the main antagonist in the Starcraft II: Heart of the Swarm campaign?</string>
+    <string name="Cybersport_3_1_1">Arcturus Mengsk</string>
+    <string name="Cybersport_3_1_2">Zeratul</string>
+    <string name="Cybersport_3_1_3">Jim Raynor</string>
+    <string name="Cybersport_3_1_4">Artanis</string>
+    <string name="Cybersport_3_1_answer">1</string>
+
+    <string name="Cybersport_3_2_question">Which game includes agents called "Sova" and "Killjoy"?</string>
+    <string name="Cybersport_3_2_1">Counter-Strike: Global Offensive</string>
+    <string name="Cybersport_3_2_2">Valorant</string>
+    <string name="Cybersport_3_2_3">Rainbow Six Siege</string>
+    <string name="Cybersport_3_2_4">Overwatch</string>
+    <string name="Cybersport_3_2_answer">2</string>
+
+    <string name="Cybersport_3_3_question">What is the primary objective in the game "Among Us", which became popular in esports circles?</string>
+    <string name="Cybersport_3_3_1">Build structures</string>
+    <string name="Cybersport_3_3_2">Eliminate players without being detected</string>
+    <string name="Cybersport_3_3_3">Collect resources</string>
+    <string name="Cybersport_3_3_4">Solve puzzles</string>
+    <string name="Cybersport_3_3_answer">2</string>
+
+    <string name="Cybersport_3_4_question">Which organization did Faker play for in League of Legends?</string>
+    <string name="Cybersport_3_4_1">Fnatic</string>
+    <string name="Cybersport_3_4_2">Team SoloMid</string>
+    <string name="Cybersport_3_4_3">Gen.G</string>
+    <string name="Cybersport_3_4_4">SK Telecom T1</string>
+    <string name="Cybersport_3_4_answer">4</string>
+
+    <string name="Cybersport_3_5_question">What is the highest rank in Counter-Strike: Global Offensive\'s competitive mode?</string>
+    <string name="Cybersport_3_5_1">Diamond</string>
+    <string name="Cybersport_3_5_2">Challenger</string>
+    <string name="Cybersport_3_5_3">Global Elite</string>
+    <string name="Cybersport_3_5_4">Grandmaster</string>
+    <string name="Cybersport_3_5_answer">3</string>
+
+    <string name="Cybersport_3_6_question">In which game can players compete in the "Octagon"?</string>
+    <string name="Cybersport_3_6_1">UFC</string>
+    <string name="Cybersport_3_6_2">FIFA</string>
+    <string name="Cybersport_3_6_3">NBA 2K</string>
+    <string name="Cybersport_3_6_4">Madden NFL</string>
+    <string name="Cybersport_3_6_answer">1</string>
+
+    <string name="Cybersport_3_7_question">Which popular esports game features a character named "Mirana"?</string>
+    <string name="Cybersport_3_7_1">Dota 2</string>
+    <string name="Cybersport_3_7_2">Paladins</string>
+    <string name="Cybersport_3_7_3">Smite</string>
+    <string name="Cybersport_3_7_4">League of Legends</string>
+    <string name="Cybersport_3_7_answer">1</string>
+
+    <string name="Cybersport_3_8_question">What is the home planet of the Protoss race in Starcraft?</string>
+    <string name="Cybersport_3_8_1">Char</string>
+    <string name="Cybersport_3_8_2">Korhal</string>
+    <string name="Cybersport_3_8_3">Tarsonis</string>
+    <string name="Cybersport_3_8_4">Aiur</string>
+    <string name="Cybersport_3_8_answer">4</string>
+
+    <string name="Cybersport_3_9_question">Which game has a competitive mode called "Ranked Play"?</string>
+    <string name="Cybersport_3_9_1">Hearthstone</string>
+    <string name="Cybersport_3_9_2">Call of Duty</string>
+    <string name="Cybersport_3_9_3">Rocket League</string>
+    <string name="Cybersport_3_9_4">Apex Legends</string>
+    <string name="Cybersport_3_9_answer">1</string>
+
+    <string name="Cybersport_3_10_question">What genre of game is "Rocket League"?</string>
+    <string name="Cybersport_3_10_1">MOBA</string>
+    <string name="Cybersport_3_10_2">FPS</string>
+    <string name="Cybersport_3_10_3">Sports-action</string>
+    <string name="Cybersport_3_10_4">Battle Royale</string>
+    <string name="Cybersport_3_10_answer">3</string>
+
+    <string name="Cybersport_4_1_question">Which game involves heroes battling it out on the "Nexus"?</string>
+    <string name="Cybersport_4_1_1">Heroes of the Storm</string>
+    <string name="Cybersport_4_1_2">Dota 2</string>
+    <string name="Cybersport_4_1_3">League of Legends</string>
+    <string name="Cybersport_4_1_4">Smite</string>
+    <string name="Cybersport_4_1_answer">1</string>
+
+    <string name="Cybersport_4_2_question">Which esports team is known for their slogan "Protect the House"?</string>
+    <string name="Cybersport_4_2_1">Evil Geniuses</string>
+    <string name="Cybersport_4_2_2">100 Thieves</string>
+    <string name="Cybersport_4_2_3">Team Liquid</string>
+    <string name="Cybersport_4_2_4">Under Armour</string>
+    <string name="Cybersport_4_2_answer">4</string>
+
+    <string name="Cybersport_4_3_question">What does the term "frag" commonly mean in FPS games?</string>
+    <string name="Cybersport_4_3_1">Respawn</string>
+    <string name="Cybersport_4_3_2">Heal</string>
+    <string name="Cybersport_4_3_3">Kill</string>
+    <string name="Cybersport_4_3_4">Retreat</string>
+    <string name="Cybersport_4_3_answer">3</string>
+
+    <string name="Cybersport_4_4_question">Which game involves a card named "Dr. Boom"?</string>
+    <string name="Cybersport_4_4_1">Magic: The Gathering</string>
+    <string name="Cybersport_4_4_2">Hearthstone</string>
+    <string name="Cybersport_4_4_3">Gwent</string>
+    <string name="Cybersport_4_4_4">Legends of Runeterra</string>
+    <string name="Cybersport_4_4_answer">2</string>
+
+    <string name="Cybersport_4_5_question">In the "Call of Duty" series, which installment introduced the "Zombies" mode?</string>
+    <string name="Cybersport_4_5_1">Call of Duty: Modern Warfare</string>
+    <string name="Cybersport_4_5_2">Call of Duty 4: Modern Warfare</string>
+    <string name="Cybersport_4_5_3">Call of Duty: World at War</string>
+    <string name="Cybersport_4_5_4">Call of Duty: Black Ops</string>
+    <string name="Cybersport_4_5_answer">3</string>
+
+    <string name="Cybersport_4_6_question">Which of the following esports organizations is NOT based in Europe?</string>
+    <string name="Cybersport_4_6_1">Fnatic</string>
+    <string name="Cybersport_4_6_2">Team Vitality</string>
+    <string name="Cybersport_4_6_3">Cloud9</string>
+    <string name="Cybersport_4_6_4">G2 Esports</string>
+    <string name="Cybersport_4_6_answer">3</string>
+
+    <string name="Cybersport_4_7_question">In Dota 2, what is the maximum level a hero can achieve during a game?</string>
+    <string name="Cybersport_4_7_1">25</string>
+    <string name="Cybersport_4_7_2">30</string>
+    <string name="Cybersport_4_7_3">35</string>
+    <string name="Cybersport_4_7_4">40</string>
+    <string name="Cybersport_4_7_answer">2</string>
+
+    <string name="Cybersport_4_8_question">Which character is known as the "Poster Boy" of the "Street Fighter" series?</string>
+    <string name="Cybersport_4_8_1">Scorpion</string>
+    <string name="Cybersport_4_8_2">Kazuya Mishima</string>
+    <string name="Cybersport_4_8_3">Ryu</string>
+    <string name="Cybersport_4_8_4">Kung Lao</string>
+    <string name="Cybersport_4_8_answer">3</string>
+
+    <string name="Cybersport_4_9_question">Which popular Battle Royale game was developed by Respawn Entertainment?</string>
+    <string name="Cybersport_4_9_1">Fortnite</string>
+    <string name="Cybersport_4_9_2">PUBG</string>
+    <string name="Cybersport_4_9_3">Apex Legends</string>
+    <string name="Cybersport_4_9_4">Warzone</string>
+    <string name="Cybersport_4_9_answer">3</string>
+
+    <string name="Cybersport_4_10_question">Which of the following is NOT a character in Super Smash Bros. Ultimate?</string>
+    <string name="Cybersport_4_10_1">Mario</string>
+    <string name="Cybersport_4_10_2">Sonic</string>
+    <string name="Cybersport_4_10_3">Master Chief</string>
+    <string name="Cybersport_4_10_4">Pikachu</string>
+    <string name="Cybersport_4_10_answer">3</string>
+
+    <string name="Cybersport_5_1_question">Which game is known for its iconic "A site" and "B site" bomb locations?</string>
+    <string name="Cybersport_5_1_1">Counter-Strike: Global Offensive</string>
+    <string name="Cybersport_5_1_2">Valorant</string>
+    <string name="Cybersport_5_1_3">Call of Duty</string>
+    <string name="Cybersport_5_1_4">Rainbow Six Siege</string>
+    <string name="Cybersport_5_1_answer">1</string>
+
+    <string name="Cybersport_5_2_question">Which game\'s competitive scene involves "operators" like Ash and Mute?</string>
+    <string name="Cybersport_5_2_1">Overwatch</string>
+    <string name="Cybersport_5_2_2">Valorant</string>
+    <string name="Cybersport_5_2_3">Paladins</string>
+    <string name="Cybersport_5_2_4">Rainbow Six Siege</string>
+    <string name="Cybersport_5_2_answer">4</string>
+
+    <string name="Cybersport_5_3_question">In which game do players frequently use the term "gg wp" at the end of a match?</string>
+    <string name="Cybersport_5_3_1">Chess</string>
+    <string name="Cybersport_5_3_2">Dota 2</string>
+    <string name="Cybersport_5_3_3">FIFA</string>
+    <string name="Cybersport_5_3_4">Both B and C</string>
+    <string name="Cybersport_5_3_answer">4</string>
+
+    <string name="Cybersport_5_4_question">What is the primary objective in the game "Starcraft"?</string>
+    <string name="Cybersport_5_4_1">Capture the flag</string>
+    <string name="Cybersport_5_4_2">Build bases and armies to defeat opponents</string>
+    <string name="Cybersport_5_4_3">Score goals</string>
+    <string name="Cybersport_5_4_4">Complete quests</string>
+    <string name="Cybersport_5_4_answer">2</string>
+
+    <string name="Cybersport_5_5_question">Which company developed the game "Valorant"?</string>
+    <string name="Cybersport_5_5_1">Epic Games</string>
+    <string name="Cybersport_5_5_2">Blizzard Entertainment</string>
+    <string name="Cybersport_5_5_3">Riot Games</string>
+    <string name="Cybersport_5_5_4">Electronic Arts</string>
+    <string name="Cybersport_5_5_answer">3</string>
+
+    <string name="Cybersport_5_6_question">Which Battle Royale game involves a storm that shrinks the play area?</string>
+    <string name="Cybersport_5_6_1">Apex Legends</string>
+    <string name="Cybersport_5_6_2">Fortnite</string>
+    <string name="Cybersport_5_6_3">PUBG</string>
+    <string name="Cybersport_5_6_4">DayZ</string>
+    <string name="Cybersport_5_6_answer">2</string>
+
+    <string name="Cybersport_5_7_question">What role in MOBA games typically focuses on dealing damage and is often found in the mid-lane?</string>
+    <string name="Cybersport_5_7_1">Support</string>
+    <string name="Cybersport_5_7_2">Jungler</string>
+    <string name="Cybersport_5_7_3">Tank</string>
+    <string name="Cybersport_5_7_4">Mid-laner or Mage</string>
+    <string name="Cybersport_5_7_answer">4</string>
+
+    <string name="Cybersport_5_8_question">Which country is known as a powerhouse in the "Starcraft" esports scene?</string>
+    <string name="Cybersport_5_8_1">Japan</string>
+    <string name="Cybersport_5_8_2">United States</string>
+    <string name="Cybersport_5_8_3">South Korea</string>
+    <string name="Cybersport_5_8_4">Germany</string>
+    <string name="Cybersport_5_8_answer">3</string>
+
+    <string name="Cybersport_5_9_question">Which game features a competitive mode called "Trials of Osiris"?</string>
+    <string name="Cybersport_5_9_1">Halo</string>
+    <string name="Cybersport_5_9_2">Destiny 2</string>
+    <string name="Cybersport_5_9_3">Warframe</string>
+    <string name="Cybersport_5_9_4">Division 2</string>
+    <string name="Cybersport_5_9_answer">2</string>
+
+    <string name="Cybersport_5_10_question">What does the term "kiting" commonly mean in esports?</string>
+    <string name="Cybersport_5_10_1">Leading enemies around</string>
+    <string name="Cybersport_5_10_2">Jumping frequently</string>
+    <string name="Cybersport_5_10_3">Rapid firing</string>
+    <string name="Cybersport_5_10_4">Hiding from enemies</string>
+    <string name="Cybersport_5_10_answer">1</string>
+
+
+
+</resources>
